@@ -1,0 +1,1500 @@
+[AMAP Scan]Scan 1498 hosts
+
+http://renren.com:80	200	nginx/1.2.6	人人网，中国领先的实名制SNS社交网络。加入人人网，找到老同学，结识新朋友。
+http://rising.com.cn:80	200	Microsoft-IIS/6.0	瑞星网 -  瑞星杀毒永久免费 -  杀毒软件|防火墙|上网安全|网络安全|安全助手|手机杀毒|企业安全管理|企业杀毒|随身wifi
+http://12306.cn:80			
+http://baidu.com:80	200	Apache	
+http://shooter.cn:80	200	nginx	首页 - 射手网 - Shooter.cn - 与别人分享，别人与你分享
+http://tencent.com:80	200	Apache/2.4.3 (Unix) PHP/5.4.6	
+http://snda.com:80	200	Apache/2.2.18 (Unix) DAV/2 PHP/5.5.11	盛大网络 | SNDA
+http://360.cn:80	200	nginx/1.2.9	360安全中心 - 360安全卫士 - 杀毒软件|免费杀毒软件|企业杀毒软件|安全浏览器
+http://xunlei.com:80	200	nginx	迅雷网络
+http://pps.tv:80	200	Apache/2.0.63 (Unix)	
+http://ftchinese.com:80			
+http://pipi.cn:80	200	Apache/2.2.6 (Unix) Resin/3.0.19	pipi.cn
+http://jiepang.com:80	200	nginx/1.4.6 (Ubuntu)	
+http://dxy.cn:80	200	nginx	
+http://7daysinn.cn:80	200	nginx	7天连锁酒店官网
+http://pindao.com:80			
+http://cnzz.com:80	200	Tengine	CNZZ数据专家——全球最大的中文网站统计分析平台
+http://tuchong.com:80	200	nginx/1.6.2 (Ubuntu)	图虫网 - 做最专业的摄影社区
+http://songtaste.com:80	200		SongTaste 用音乐倾听彼此
+http://yeepay.com:80	200	Tengine/2.1.0	易宝支付-绿色支付 快乐生活
+http://ylmf.com:80	200	nginx	广东雨林木风计算机科技有限公司
+http://dzwww.com:80	200	DWS/07.08W1112	大众网_山东新闻第一网 山东网友生活圈 移动互联新门户
+http://ubox.cn:80	200	nginx	友宝 - 中国自动售货机第一品牌，4001-528-528
+http://bianfeng.com:80			
+http://unnoo.com:80	200	nginx/1.1.19	大成天下-防泄密第一品牌铁卷-文件加密-文档安全-信息安全-保密-加密软件-数据防泄露-DLP-桌面安全-保护知识产权
+http://lashou.com:80	200	LWS	团购网-拉手网团购-超人气团购网站-团购上拉手
+http://10jqka.com.cn:80	200	nginx	同花顺财经__让投资变得更简单__同花顺
+http://yxlink.com:80	200	Yxlink Reverse Proxy Server/2.7	铱迅信息
+http://anquanbao.com:80	200	ASERVER/1.2.9-3	安全宝 - 网站安全专家 | 防黑客、抗DDoS、网站加速 永久免费
+http://elong.com:80	200	EFE		        【艺龙旅行网】酒店预订_机票查询_酒店团购_电话4009-333-333
+http://letao.com:80	200	Microsoft-IIS/7.5	乐淘网上鞋城 - 买鞋子，上乐淘！
+http://tttuangou.net:80	200	Tengine/1.3.0	天天团购系统，免费开源的php团购程序 - 最受欢迎的o2o电商系统
+http://yonyou.com:80			
+http://aqgj.cn:80	200	nginx/0.8.5	--------
+http://51job.com:80	200	Apache	招聘网_人才网_找工作_求职_上前程无忧
+http://guosen.com.cn:80	200	Apache-Coyote/1.1	
+http://ftsafe.com.cn:80	200	Apache/2.4.6 (CentOS) PHP/5.4.16	智能卡核心技术的执着者——飞天诚信信息安全专家 | FEITIAN
+http://topsec.com.cn:80			
+http://wanda.cn:80	404	ATS/3.2.5	Not Found on Accelerator
+http://php.net:80	200	nginx/1.6.2	PHP: Hypertext Preprocessor
+http://playcool.com:80	200	nginx/1.2.4	冰动娱乐
+http://baihe.com:80	200		百合网_免费沟通_免费交友_免费征婚_相亲_中国首席婚恋服务专家
+http://263.net:80			
+http://wdlinux.cn:80	200	nginx/1.2.9	WDlinux致力于Linux服务器应用解决方案,架构,优化,CDN加速管理系统,CDN软件,CDN解决方案,免费智能DNS解析系统,DNS软件,智能DNS解决方案,负载均衡,集群分流
+http://dahe.cn:80	200	nginx	大河网-河南首家重点新闻网站
+http://21cn.com:80	200	nginx/1.7.9	21CN
+http://cmseasy.cn:80	200	IIS	CmsEasy - 易通企业网站管理系统官网
+http://36kr.com:80	200	nginx/1.6.2 + Phusion Passenger 4.0.58	36氪 | 让创业更简单
+http://jiajia.me:80	403	nginx/1.5.5	403 Forbidden
+http://neusoft.com:80			
+http://thinksky.hk:80	200	nginx	
+http://shopex.cn:80			
+http://easybuy.com.cn:80	200	Microsoft-IIS/7.5	��������������
+http://51web.com:80	403	yunjiasu-nginx	友情提示 | 百度云加速
+http://qianpin.com:80			
+http://knownsec.com:80			
+http://ztgame.com:80			
+http://guang.com:80	200	nginx	逛，发现喜欢 - 不外出逛街一样可以逛出品质生活
+http://lakala.com:80	200	nginx/1.0.15	拉卡拉
+http://gooann.com:80	200	Microsoft-IIS/7.5			谷安天下，信息安全与IT风险管理专业咨询服务机构，ISO27001、IT审计、IT治理、开发安全、ISMS信息安全管理体系、信息安全规划、敏感信息保护、业务安全咨询等	
+http://shandagames.com:80			
+http://hx168.com.cn:80			
+http://xueqiu.com:80	403		
+http://the9.com:80			
+http://chinacache.com:80	200	nginx	CDN|CDN技术|CDN加速|智能CDN|CDN网站加速-北京蓝汛通信技术有限责任公司
+http://baobeihuijia.com:80	200	Microsoft-IIS/6.0	网站首页 - 宝贝回家寻子网 关爱儿童我们共同的责任
+http://sclub.com.tw:80	200	Apache/2.2.3 (CentOS)	SCLUB免費論壇申請
+http://sucop.com:80			
+http://leyou.com:80			
+http://hada.me:80			
+http://renren.com:8080			
+http://joy.cn:80			
+http://ccw.com.cn:80			
+http://diandian.com:80			
+http://gamemayi.com:80			
+http://tnyoo.com:80			
+http://rising.com.cn:8080			
+http://12306.cn:8080			
+http://dns.com.cn:80	200	nginx	新网互联－企业移动应用服务商，域名注册,企业邮箱,虚拟主机,网站空间,云主机,香港主机,免备案主机,手机网站,手机客户端,移动推广,信息名址注册
+http://snda.com:8080			
+http://ftchinese.com:8080			
+http://pps.tv:8080			
+http://xunlei.com:8080			
+http://sogou.com:80	200	nginx	鎼滅嫍鎼滅储寮曟搸 - 涓婄綉浠庢悳鐙楀紑濮�/title>
+http://pipi.cn:8080	200	Resin/3.0.19	Resin® Default Home Page
+http://pindao.com:8080			
+http://7daysinn.cn:8080			
+http://tuchong.com:8080			
+http://songtaste.com:8080			
+http://jiepang.com:8080			
+http://bianfeng.com:8080			
+http://dzwww.com:8080			
+http://ylmf.com:8080			
+http://yxlink.com:8080			
+http://lashou.com:8080			
+http://ubox.cn:8080	404	nginx	--------
+http://sohu.com:80	200	SWS	搜狐-中国最大的门户网站
+http://lenovo.com:80	200	Microsoft-IIS/7.5	Buy Computers Laptops & Tablets | For Those Who Do | Lenovo US
+http://tttuangou.net:8080			
+http://letao.com:8080			
+http://cenwor.com:80	200	Tengine/1.3.0	杭州神话信息技术有限公司
+http://yonyou.com:8080			
+http://topsec.com.cn:8080			
+http://guosen.com.cn:8080			
+http://ftsafe.com.cn:8080			
+http://wanda.cn:8080			
+http://playcool.com:8080			
+http://baihe.com:8080			
+http://jiajia.me:8080			
+http://neusoft.com:8080			
+http://qianpin.com:8080			
+http://263.net:8080			
+http://knownsec.com:8080			
+http://dahe.cn:8080			
+http://51web.com:8080	403	yunjiasu-nginx	友情提示 | 百度云加速
+http://thinksky.hk:8080			
+http://guang.com:8080			
+http://9you.com:80	200	Apache	久游网-首页
+http://wanmei.com:80	200	nginx	完美世界 - 完美娱乐 世界同享
+http://hx168.com.cn:8080			
+http://chinacache.com:8080			
+http://163.com:80	200	nginx	网易
+http://ifeng.com:80	200	nginx/1.2.3	凤凰网
+http://sdo.com:80	200	nginx/1.7.10	盛大在线——盛大娱乐平台
+http://19lou.com:80	200	nginx	19楼(19lou.com) - 分享生活 温暖你我 - 杭州19楼
+http://mop.com:80	200	nginx/0.8.32	猫扑-中国领先的网络社区
+http://maxthon.cn:80	200	nginx	傲游云浏览器 让自由前所未有 | 支持全平台免费下载
+http://shooter.cn:8080			
+http://tencent.com:8080			
+http://360.cn:8080			
+http://sina.com.cn:80	200	nginx	新浪首页
+http://duba.net:80	200	kws	【金山毒霸官网】免费杀毒软件|电脑杀毒|杀毒工具|电脑杀毒|垃圾清理|电脑加速|软件管理
+http://blogbus.com:80	200	BSM	【博客大巴】心情日记_情感日志_日记大全_免费个人博客 - BlogBus
+http://dxy.cn:8080			
+http://cnzz.com:8080			
+http://douban.com:80	200	nginx	豆瓣
+http://youku.com:80			
+http://unnoo.com:8080			
+http://10jqka.com.cn:8080			
+http://39.net:80	200	3ws/1.4.4	39健康网_中国领先的健康门户网站
+http://alipay.com:80	200	Tengine/2.1.0	支付宝 知托付！
+http://qiyi.com:80	200	Apache 1.3.29	爱奇艺-中国领先的视频门户，高清影视剧，网络视频在线观看
+http://phpwind.net:80	200	Tengine	phpwind 官方论坛 - Powered by phpwind
+http://ourgame.com:80	404	Microsoft-IIS/6.0	无法找到资源。
+http://www.net.cn:80	200	Tengine	域名注册_虚拟主机_云服务器_企业邮箱-万网-阿里云旗下品牌
+http://focus.cn:80	200	FSS	房地产_房产网_房产信息网-搜狐焦点网
+http://verycd.com:80	200	nginx	VeryCD电驴大全 - 分享互联网
+http://it168.com:80	200	Microsoft-IIS/7.5	IT168.com � 电商时代IT导购第一站
+http://chinaren.com:80	200	nginx/1.2.7	ChinaRen-年轻人的门户-搜狐
+http://4399.com:80	200	nginx	小游戏,4399小游戏,小游戏大全,双人小游戏大全 - www.4399.com 中国最大的游戏平台
+http://huawei.com:80	200	nginx/1.6.3					 					Huawei - Building A Better Connected World				 	
+http://xiami.com:80	400	Tengine	400 Bad Request
+http://mtime.com:80	200	nginx	 Mtime时光网：让电影遇见生活 
+http://joy.cn:8080			
+http://tudou.com:80	200	Tengine/1.5.0	土豆_每个人都是生活的导演_在线视频观看,原创视频上传,海量视频搜索
+http://17173.com:80	200	nginx	::17173.com::中国游戏第一门户站
+http://ctrip.com:80	200	Microsoft-IIS/7.5	携程旅行网官网:酒店预订,机票预订查询,旅游度假,商旅管理
+http://91wan.com:80	200	nginx	91WAN网页游戏平台 - 玩游戏上91WAN
+http://xywy.com:80	200	Apache/2.2.21	寻医问药_医药搜索_医患交流_健康资讯_中国第一健康服务网_xywy.com
+http://51.com:80	200	Apache/1.3.37.sa	51|51游戏_好玩的游戏社区化平台_游戏|交友|空间尽在51.com
+http://tompda.com:80	200	Microsoft-IIS/6.0	TOMPDA智能手机网
+http://jd.com:80	200	JDWS	京东(JD.COM)-综合网购首选-正品低价、品质保障、配送及时、轻松购物！
+http://chinaunix.net:80	200	nginx	Unix技术网 = 全球最大的Linux/Unix应用与开发者社区 = IT人的网上家园
+http://elong.com:8080			
+http://aqgj.cn:8080			
+http://51job.com:8080			
+http://pptv.com:80	200		PPTV聚力-始终和你同一频道,海量影视剧,高清体育直播,强档综艺节目,热点视频在线观看
+http://qunar.com:80	200	QWS/1.0	【去哪儿网】机票查询预订，酒店预订，旅游团购，度假搜索，门票预订-去哪儿网Qunar.com
+http://lianzhong.com:80	200	nginx/1.6.2 mobileopt-1.11.6	联众游戏
+http://zhihu.com:80	200	zhihu_nginx	知乎 - 与世界分享你的知识、经验和见解
+http://duowan.com:80	200	nginx	多玩游戏网 | 多玩游戏 多交朋友
+http://58.com:80	200	Tengine	【58同城 58.com】广州分类信息 - 本地 免费 高效
+http://phpcms.cn:80	200	Apache/2.2.15 (CentOS)	Phpcms-中国领先的网站内容管理系统|网站管理系统
+http://21cn.com:8080			
+http://cmseasy.cn:8080			
+http://36kr.com:8080			
+http://shopex.cn:8080			
+http://easybuy.com.cn:8080			
+http://ztgame.com:8080			
+http://lakala.com:8080			
+http://gooann.com:8080			
+http://guokr.com:80	200	nginx	果壳网 科技有意思
+http://hudong.com:80	200	HDegine (window; Formilux/0.1.8)	互动百科-百科更权威
+http://6.cn:80	200	ngx_openresty	六间房 - 美女视频 - 美女直播 - 视频聊天 - 视频交友
+http://vancl.com:80	200	Microsoft-IIS/7.5	凡客VANCL，互联网快时尚品牌，服装，鞋，配饰，箱包，化妆品，网上购物，货到付款，30天无条件退换货
+http://9158.com:80	200	Microsoft-IIS/6.0			9158-美女视频,美女直播,聊天室,视频聊天	
+http://55tuan.com:80	200	55tuan-web/0.0	【窝窝团购网】-精挑细选团购大全,团购就上窝窝网(55tuan.com)!
+http://sangfor.com.cn:80	200	*****			深信服 - 中国规模最大、创新能力最强的前沿网络设备供应商	
+http://zhenai.com:80	200	nginx	【同城相亲】珍爱网 - 珍爱红娘婚恋婚介交友征婚服务
+http://cnbeta.com:80	200	nginx/1.4.1	cnBeta.COM_中文业界资讯站
+http://alibaba.com:80	200	Tengine	Manufacturers, Suppliers, Exporters & Importers from the world's largest online B2B marketplace-Alibaba.com
+http://taomee.com:80	200	DnionOS/1.0	上海淘米网络科技有限公司
+http://dangdang.com:80	200	nginx/1.2.5	当当―网上购物中心：图书、母婴、美妆、家居、数码、家电、服装、鞋包等，正品低价，货到付款
+http://newegg.com.cn:80	200	NEWEGG	新蛋中国,领先的网上购物商城-手机 电脑 数码 家电 服装 化妆品 家居 食品等,正品低价,货到付款。 - 新蛋中国
+http://xiaomi.com:80	200	MIFE/3.0	小米官网——小米手机、红米手机、小米电视官方正品专卖网站
+http://kingsoft.com:80	200	nginx	金山在线 - 做世界一流的软件企业
+http://changyou.com:80	200	nginx	畅游-ChangYou.com
+http://aipai.com:80	200	nginx/1.4.4	爱拍原创 - 年轻人的原创娱乐首选地
+http://coremail.cn:80	200	nginx	盈世Coremail邮件系统-企业邮箱,7亿用户信赖的邮件服务器系统
+http://veryeast.cn:80	200		最佳东方-酒店业第一招聘品牌
+http://ku6.com:80	200	nginx	酷6网 中国第一视频门户
+http://crucco.com:80	200	Microsoft-IIS/7.5	男装 女装 鞋 长袖针织开衫 针织开衫 针织衫 内衣 服饰 收纳用品 家居生活 图书 图书音像/数字 办公文具 数码/办公 箱包,尽在VANCL凡客诚品初刻频道,货到付款,30天无条件退换货
+http://goodbaby.com:80	200	openresty	好孩子科学育儿网 - 怀孕 育儿 您身边的科学育儿专家
+http://tom.com:80	200	Apache/2.2.25 (Unix) DAV/2 PHP/5.3.27	TOM.COM
+http://eset.com.cn:80	403		
+http://ly.com:80	200	Microsoft-IIS/7.5	爸爸去哪儿3官方指定旅游网站-同程旅游_旅游_旅游网_景点门票_特价机票_周边游_国内旅游_酒店预订
+http://jiayuan.com:80	200	jyws	世纪佳缘交友网：中国最大的严肃婚恋交友网站|免费注册马上寻缘
+http://youtx.com:80	200	nginx	游天下短租网,搜房网旗下网站-短租房,日租房,短租公寓,家庭旅馆首选
+http://sf-express.com:80	200	nginx	顺丰速运
+http://cntv.cn:80	200	Apache	央视网
+http://7k7k.com:80	200	nginx	小游戏,7k7k小游戏,小游戏大全,双人小游戏 - www.7k7k.com
+http://shop.edu.cn:80	200	CWS	赛尔校园先锋官方网站_千万学子成长服务平台（shop.edu.cn）独家教育特惠
+http://csdn.net:80	200	openresty	CSDN.NET - 全球最大中文IT社区，为IT专业技术人员提供最全面的信息传播和服务平台
+http://iboxpay.com:80	200	nginx	盒子支付，助力每一个小微商户实现梦想---深圳盒子支付信息技术有限公司
+http://letv.com:80	200	nginx	乐视网 - 专业的影视剧视频网站 电影天堂 电视剧排行
+http://kugou.com:80	200	KugouCDN	酷狗音乐 和音乐在一起
+http://yupoo.com:80	200	nginx/403	又拍网, 绘生活
+http://duote.com:80	200	Apache	软件下载_最快最安全的软件下载中心_2345软件大全(多特软件下载站)
+http://jiangmin.com:80	200	Apache/2.4.9 (Win32) OpenSSL/0.9.8y	北京江民新科技术有限公司 － 江民杀毒软件，江民网络版杀毒软件，江民网警，江民专网安全防护
+http://vip.com:80	200	vipshop/VipS	唯品会（原Vipshop.com）特卖会：一家专门做特卖的网站_确保正品_确保低价_货到付款
+http://west263.com:80	200	Microsoft-IIS/6.0	西部数码-全国3强！中国领先的云主机、虚拟主机租用、域名注册服务商！
+http://dns.com.cn:8080			
+http://yoybuy.com:80	200	Microsoft-IIS/8.5	Shopping from Taobao in English? Yoybuy is your Taobao Broker for USA UK and AU
+http://tianya.cn:80	200	nginx	天涯社区_全球华人网上家园
+http://5173.com:80	200	varnish43	网络游戏交易平台|装备交易|游戏币交易|帐号交易|点卡充值|代练服务-是国内最权威最安全的游戏交易平台-5173.com
+http://wdlinux.cn:8080			
+http://kingdee.com:80	200	DnionOS/1.2.1.2	金蝶官网|财务软件|ERP软件|O2O|OA办公系统|ERP|金蝶kis|金蝶k3|云ERP|ERP租赁-金蝶软件（中国）有限公司
+http://coo8.com:80	200	GOMEWS	国美在线-国美电器官方网上商城，中国领先专业的综合网购平台，正品低价、快速送达、安心服务!
+http://xiu.com:80	200	Tengine	八月大促-主会场-国际品牌全球同价-走秀网官网
+http://gome.com.cn:80	200	GOMEWS	国美在线-国美电器官方网上商城，中国领先专业的综合网购平台，正品低价、快速送达、安心服务!
+http://dajie.com:80	200		大街网_预见新自己！
+http://2345.com:80	200		2345网址导航－开创中国百年品牌（已创建9年零11个月）
+http://zol.com.cn:80	200	ngx_openresty/1.2.8.6	中关村在线 - 大中华区最具商业价值的IT专业网站 - The most valuable and professional IT business website in Greater  China
+http://suning.com:80	200	nginx	苏宁易购(Suning)-苏宁云商网上商城,是领先的综合网上购物商城,正品行货,全国联保,货到付款,让您尽享购物乐趣！
+http://51cto.com:80	200	Tengine	51CTO.COM - 技术成就梦想 - 中国领先的IT技术网站
+http://syyx.com:80	200		尚游游戏-首页-官方网站
+http://yahoo.com:80	200	ATS	Yahoo
+http://99.com:80	200	nginx	 99.com
+http://happigo.com:80	200	nginx	快乐购 - 值得信赖的购物平台,视频导购,货到付款,正品行货 - 湖南卫视快乐购电视购物官网,更多选择,更多优惠 - 美容护肤、数码、家电、服装、家居、运动休闲
+http://xd.com:80	200	nginx	用心感动 - 心动游戏
+http://docin.com:80	200	nginx/1.4.1	docin.com豆丁网-分享文档 发现价值
+http://xoyo.com:80	200	nginx	金山游戏官方网站_金山逍遥网Xoyo.com
+http://ijinshan.com:80	200	kws	【金山网络】 - 永久免费的杀毒软件下载,金山毒霸,金山卫士,手机助手,官方网站
+http://iciba.com:80	200	nginx	在线翻译_在线词典_金山词霸_爱词霸英语
+http://m18.com:80	200	PWS/8.1.20.22			麦网–畅想优质网上购物体验，数万款精品女装 化妆品 套装 食品 精品男装	
+http://cwan.com:80	200	nginx/1.2.2	网页游戏大全_中国玩家网 - Cwan.Com
+http://lvmama.com:80	200	nginx2	驴妈妈旅游网:中国自助游领军品牌_自由行,旅游度假,酒店机票
+http://sogou.com:8080	501	nginx	501 Not Implemented
+http://venustech.com.cn:80	200	Microsoft-IIS/6.0	启明星辰-国际领先的网络安全产品和安全服务提供商
+http://178.com:80	200	nginx/0.8.55	178游戏网 | 一起把游戏进行到底
+http://360shop.com.cn:80			
+http://shandagames.com:8080			
+http://the9.com:8080			
+http://jiapin.com:80	200	Apache/2.2.14 (Unix) PHP/5.2.11	佳品网-引领时尚生活 | 中国知名奢侈品网购商城
+http://baobeihuijia.com:8080			
+http://sclub.com.tw:8080			
+http://sucop.com:8080			
+http://uc.cn:80			
+http://php.net:8080			
+http://yeepay.com:8080			
+http://anquanbao.com:8080			
+http://leyou.com:8080			
+http://ip66.com:80	200	nginx/1.0.11	成都艾普宽带网上营业厅
+http://hada.me:8080			
+http://ccw.com.cn:8080			
+http://diandian.com:8080			
+http://touzhu.cn:80	403	Apache	403 Forbidden
+http://baijob.com:80			
+http://cenwor.com:8080			
+http://xianguo.com:80	200		鲜果网 鲜果 - 关注你感兴趣的人和事
+http://qiaogu.com:80	403	nginx	403 Forbidden
+http://gamemayi.com:8080			
+http://tnyoo.com:8080			
+http://tuciabbay.com:80			
+http://linktrust.com.cn:80	200	Apache-Coyote/1.1	领信教育
+http://yuantiku.com:80	200	Tengine	猿题库 - 从此爱上练习
+http://9you.com:8080			
+http://800app.com:80	200	Rasin3.15	CRM - 	CRM客户关系管理系统 - 八百客CRM专家
+http://sdo.com:8080			
+http://ifeng.com:8080			
+http://taocms.org:80			
+http://maxthon.cn:8080			
+http://blogbus.com:8080	403	Apache/2.2.11 (Unix) mod_ssl/2.2.11 OpenSSL/0.9.8e-fips-rhel5 DAV/2 PHP/5.2.9	403 Forbidden
+http://thinksns.com:80	200	nginx	ThinkSNS开源微博系统 - 智士旗下社交网络平台
+http://qiyi.com:8080	404		Not Found on Accelerator
+http://39.net:8080			
+http://duba.net:8080			
+http://discuz.net:80	200	nginx	Discuz! 官方站-PHP 开源论坛 -  Powered by Discuz!
+http://douban.com:8080			
+http://ourgame.com:8080			
+http://youku.com:8080			
+http://it168.com:8080			
+http://akcms.com:80	200	nginx	帯を着物に上手くコーディネートして和風美人を目指そう
+http://chinaunix.net:8080			
+http://gtja.com:80	200	Tengine/1.5.2	国泰君安.用户登录
+http://51.com:8080			
+http://pptv.com:8080			
+http://tompda.com:8080	200	Apache-Coyote/1.1	数码交易平台
+http://phpcms.cn:8080			
+http://kuaibo.com:80			
+http://cins.cn:80	200	nginx	胜思网络 - 官方网站
+http://taomee.com:8080			
+http://moliyo.com:80	200	nginx/1.6.2	moliyo.com
+http://6.cn:8080			
+http://vancl.com:8080			
+http://sangfor.com.cn:8080			
+http://papa.me:80	200	nginx	啪啪-图片声音社区
+http://cnbeta.com:8080			
+http://veryeast.cn:8080			
+http://goodbaby.com:8080			
+http://crucco.com:8080			
+http://tom.com:8080			
+http://duowan.com:8080	200	nginx	《水煮江山》官方网站_首款新概念阵营型战争策略网页游戏_多玩游戏
+http://youtx.com:8080			
+http://ku6.com:8080			
+http://duote.com:8080			
+http://csdn.net:8080			
+http://kugou.com:8080			
+http://letv.com:8080			
+http://vip.com:8080			
+http://5173.com:8080			
+http://west263.com:8080			
+http://nokia.com:80	200	nginx	Nokia | 网络, 技术和测绘
+http://2345.com:8080			
+http://51cto.com:8080			
+http://dajie.com:8080			
+http://suning.com:8080			
+http://gome.com.cn:8080			
+http://99.com:8080			
+http://docin.com:8080			
+http://cwan.com:8080			
+http://ijinshan.com:8080			
+http://dianping.com:80	200	DPweb	大众点评网_美食，生活，优惠券，团购
+http://taobao.com:80	200	Tengine	淘宝网 - 淘！我喜欢
+http://17sup.com:80	200	Tengine	网游进销存
+http://360shop.com.cn:8080			
+http://178.com:8080			
+http://gaopeng.com:80	200	Apache	高朋 - 电影 · 商圈 · 精品生活
+http://uc.cn:8080			
+http://jiapin.com:8080			
+http://ganji.com:80	200	Tengine	【广州赶集网】-免费发布信息-广州分类信息门户
+http://yoybuy.com:8080	200	Apache-Coyote/1.1	Apache Tomcat/7.0.53
+http://dnspod.cn:80	200	nginx	DNSPod-免费智能DNS解析服务商-电信_网通_教育网,智能DNS
+http://jinwankansha.com:80			
+http://changba.com:80	200	nginx/1.6.2	首页 - 唱吧 - 最时尚的手机KTV
+http://touzhu.cn:8080			
+http://ip66.com:8080	404	nginx/1.0.11	404 Not Found
+http://jingwei.com:80	200	nginx/0.8.54	经纬名片通
+http://51greenorange.com:80			
+http://baidu.com:8080			
+http://baijob.com:8080			
+http://argos.cn:80	200	nginx/1.6.2	argos.cn
+http://lenovo.com:8080			
+http://sudu.cn:80	200	nginx		华夏名网-专业的顶级域名主机服务商,提供域名注册,虚拟主机,云主机,邮局,服务器租用托管等
+http://goldmail.cn:80			
+http://chinaz.com:80	200	nginx/1.4.4	站长之家 - 中国站长站 - 站长资讯 | 我们致力于为中文网站提供动力！
+http://wanmei.com:8080			
+http://19lou.com:8080			
+http://sina.com.cn:8080			
+http://phpwind.net:8080			
+http://www.net.cn:8080			
+http://focus.cn:8080			
+http://verycd.com:8080			
+http://4399.com:8080			
+http://huawei.com:8080			
+http://xiami.com:8080			
+http://lianzhong.com:8080			
+http://ctrip.com:8080			
+http://91wan.com:8080			
+http://zhihu.com:8080			
+http://58.com:8080			
+http://meituan.com:80			
+http://eversec.com.cn:80			
+http://guokr.com:8080			
+http://hudong.com:8080			
+http://9158.com:8080			
+http://55tuan.com:8080			
+http://zhenai.com:8080			
+http://dangdang.com:8080			
+http://newegg.com.cn:8080			
+http://kingsoft.com:8080			
+http://changyou.com:8080			
+http://coremail.cn:8080			
+http://eset.com.cn:8080			
+http://ly.com:8080			
+http://jiayuan.com:8080			
+http://cntv.cn:8080			
+http://7k7k.com:8080			
+http://shop.edu.cn:8080			
+http://iboxpay.com:8080			
+http://sf-express.com:8080			
+http://yupoo.com:8080			
+http://jiangmin.com:8080			
+http://shopxx.net:80			
+http://tianya.cn:8080			
+http://shopxx.net:80			
+http://kingdee.com:8080			
+http://xiu.com:8080			
+http://coo8.com:8080			
+http://zol.com.cn:8080			
+http://syyx.com:8080			
+http://happigo.com:8080			
+http://iciba.com:8080			
+http://m18.com:8080			
+http://lvmama.com:8080			
+http://venustech.com.cn:8080			
+http://alipay.com:8080			
+http://cpic.com.cn:80			
+http://sohu.com:8080			
+http://163.com:8080			
+http://mop.com:8080			
+http://chinaren.com:8080			
+http://tudou.com:8080			
+http://17173.com:8080			
+http://xywy.com:8080			
+http://qunar.com:8080			
+http://alibaba.com:8080			
+http://xiaomi.com:8080			
+http://xd.com:8080			
+http://xoyo.com:8080			
+http://lefeng.com:80	200	nginx	乐蜂网 _ 正品化妆品特卖网站 _ 100%正品保证!
+http://mangocity.com:80	200	rhongx/1.1.03	【芒果网】旅游_旅游网_自由行_跟团游_周边游_邮轮_机票预订_酒店预订
+http://jd.com:8080			
+http://tuciabbay.com:8080			
+http://linktrust.com.cn:8080	200	Apache-Coyote/1.1	领信教育
+http://taocms.org:8080			
+http://800app.com:8080	403		无法显示此页
+http://qiaogu.com:8080			
+http://thinksns.com:8080			
+http://yunyun.com:80			
+http://iyiyun.com:80	200	nginx/1.6.3	益云
+http://eguan.cn:80	200	Apache/2.2.15 (CentOS)	易观国际集团官网
+http://chinanetcenter.com:80	200	Microsoft-IIS/7.5	网宿科技——中国最大的CDN及IDC综合服务提供商
+http://haodf.com:80	250		250 Forbidden
+http://weibo.com:80	200	nginx	Sina Visitor System
+http://huatu.com:80	200	nginx/1.1.5	公务员考试网_2016国家公务员考试_2015省公务员考试网_公务员考试面试培训-华图教育官网	
+http://house365.com:80	200	Apache	365淘房-好房就要淘
+http://tiexue.net:80	200	Microsoft-IIS/7.5	军事-中国军事-军事新闻-铁血网 - 原创第一军事门户
+http://sudytech.com:80	200	Apache/2.2.22 (Unix) DAV/2 mod_jk/1.2.23	--------
+http://akcms.com:8080	200	Apache	帯を着物に上手くコーディネートして和風美人を目指そう
+http://kuaibo.com:8080			
+http://jollymm.com:80			
+http://zblogcn.com:80	200	nginx	Z-Blog官网,PHP版本和ASP版本的博客程序,个人建站CMS系统.
+http://dopool.com:80			
+http://firefox.com.cn:80	200	nginx	火狐浏览器 — 欢迎下载使用火狐浏览器 — firefox.com.cn
+http://trip8080.com:80	200	nginx	畅途网-长途汽车票网上订票_长途汽车时刻表_汽车票查询预订
+http://bjsako.com:80	200	Microsoft-IIS/6.0	悍马赌场,smartbets8娱乐城官网,58网上赌场,天博国际网上赌场,劳斯莱斯赌场
+http://xianguo.com:8080			
+http://yuantiku.com:8080			
+http://discuz.net:8080			
+http://moliyo.com:8080	200	Apache-Coyote/1.1	--------
+http://gtja.com:8080			
+http://cins.cn:8080			
+http://newsmyshop.com:80			
+http://papa.me:8080			
+http://xcar.com.cn:80	200	ngx_openresty	爱卡汽车_全球领先的汽车主题社区、汽车资讯、汽车论坛中心
+http://fantong.com:80			
+http://gamtee.com:80	200	nginx	深圳市光启科技有限公司
+http://zhubajie.com:80	403		
+http://redbaby.com.cn:80	200	SNREVIEW	苏宁易购【红孩子】母婴用品商城—进口婴儿奶粉_尿不湿_纸尿裤_孕妇奶粉_婴儿用品
+http://kanglu.com:80	403	yunjiasu-nginx	友情提示 | 百度云加速
+http://tp-link.com.cn:80	200	Microsoft-IIS/7.5	TP-LINK官方网站
+http://xinnet.com:80	200	nginx	新网-顶级域名注册与互联网基础应用服务提供商(www.xinnet.com)
+http://zhenpin.com:80	200	nginx	珍品网—中国领先的奢侈品购物网站_专柜同步_100%正品
+http://qfpay.com:80	200	nginx	登录 - 用户管理网站
+http://huanqiu.com:80	200	nginx	环球网_全球生活新门户_环球时报旗下网站
+http://trs.com.cn:80			
+http://duoshuo.com:80			
+http://wssys.net:80	200	Microsoft-IIS/7.0	WSS官方网站-WSS项目管理,免费项目管理软件下载,免费工作日志管理软件下载,项目管理,工作日志管理,任务管理,工时管理 - Project,working log,task management system - WSS Project,working log,task management system
+http://dianping.com:8080			
+http://17sup.com:8080			
+http://1ting.com:80	200	nProxy	一听音乐网_歌曲大全::免费网络在线正版音乐第一站
+http://meitu.com:80	200	Tengine	美图网——美图官方商城，美图手机（美图M4）、美图秀秀等产品的官方网站
+http://donews.com:80	200	nginx	DoNews-IT门户-移动互联网新闻-电子商务新闻-游戏新闻-风险投资新闻-IT社交网络社区
+http://hxage.com:80	200	Cdn Cache Server V3.2.3	《冰火传奇》官方网站
+http://meizu.com:80	200	nginx/1.6.0	魅族官网-魅族智能手机官方网站
+http://acfun.tv:80	200	Tengine/2.0.3	AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+http://oschina.net:80	403	Tengine/2.1.0	--------
+http://53kf.com:80	200	nginx	53KF_53快服企业云软件_企业在线客服系统软件专家_在线客服系统第一品牌-53客服
+http://tuniu.com:80	200	Apache	中国好声音官方指定旅游网站_旅游_旅游网_旅游线路_自助游_自驾游_公司旅游_途牛旅游网
+http://ganji.com:8080			
+http://mplife.com:80	200	Microsoft-IIS/7.5	名品导购网_领先的城市消费生活导购门户
+http://jinwankansha.com:8080			
+http://changba.com:8080			
+http://51greenorange.com:8080			
+http://591wed.com:80	200	Tengine/2.0.3	591婚博会，婚博会官网-591结婚网，中国专业结婚预订平台
+http://sudu.cn:8080			
+http://chinaz.com:8080			
+http://sgcc.com.cn:80			
+http://baixing.com:80			
+http://welove520.com:80	200	UGuess	微爱-情侣应用
+http://3158.cn:80	200	PowerCDN/3.00(130727)	3158招商加盟网-值得信赖的招商_加盟_连锁_创业_商机_致富网
+http://desdev.cn:80	404	Microsoft-HTTPAPI/2.0	Not Found
+http://3158.com:80	200	Apache/2.00(130508)	3158品牌在线|投资创业找好项目,创业商机网,3158招商加盟,连锁开店,生意批发,赚钱致富经-www.3158.com！
+http://airchina.com.cn:80			
+http://autonavi.com:80	200	nginx	高德官方网站-地图导航专家-高德地图高德导航免费下载
+http://eyou.net:80	200	nginx/1.6.1	亿邮（eYou）电子邮件系统 北京亿中邮信息技术有限公司 中国第一大邮件系统软件及整体解决方案提供商
+http://argos.cn:8080	200	Apache-Coyote/1.1	--------
+http://50cms.com:80	200	WWW Server/1.1	50CMS-开源aspxCMS系统-带微信第三方接口程序
+http://womai.com:80	200	nginx	中粮我买网-中粮集团旗下食品网上购物网站
+http://hiall.com.cn:80	200		HiAll-求职招聘-校园招聘-hiall.com.cn-中国最大的大学生求职门户
+http://xueqiu.com:8080			
+http://nokia.com:8080			
+http://taobao.com:8080			
+http://gaopeng.com:8080			
+http://dnspod.cn:8080			
+http://jingwei.com:8080			
+http://lusen.com:80			
+http://goldmail.cn:8080			
+http://zte.com.cn:80			
+http://didatuan.com:80			
+http://v2ex.com:80	200	TornadoServer/4.1	V2EX
+http://cmbc.com.cn:80			
+http://ceair.com:80			
+http://jeecms.com:80			
+http://founderbn.com:80	200	Apache-Coyote/1.1	Coremail邮件系统
+http://shopxx.net:8080			
+http://tcl.com:80			
+http://shopxx.net:8080			
+http://5sing.com:80			
+http://youmi.cn:80	200	nginx/1.4.2	优米网 - 为创业者服务
+http://phpstat.net:80	200	Apache/2.2.4 (Win32) PHP/5.2.1	易分析|访客实时分析|用户画像分析|访客画像分析|访客标签分析|跨屏跟踪分析|电商数据分析|网站数据分析| - phpstat - 易分析 - 北京普艾斯科技有限公司
+http://safedog.cn:80	200	nginx	安全狗-知名互联网安全品牌|服务器安全|网站安全|服务器杀毒|云安全
+http://locojoy.com:80	200	Microsoft-IIS/7.5	乐动卓越
+http://tcl.com:80			
+http://sto.cn:80	200	Microsoft-IIS/6.0	申通快递
+http://diditaxi.com.cn:80	200		
+http://kanglu.com:8080	403	yunjiasu-nginx	友情提示 | 百度云加速
+http://ccidnet.com:80	200	nginx	赛迪网_中国信息产业风向标
+http://yunyun.com:8080			
+http://iyiyun.com:8080			
+http://jushanghui.com:80	200	JUSHANGHUI.COM	首页
+http://aipai.com:8080	200	nginx/1.4.4	爱拍原创 - 年轻人的原创娱乐首选地
+http://yihaodian.com:80	200	Apache-Coyote/1.1	网上超市1号店，省力省钱省时间
+http://sdcms.cn:80	200	nginx	SDCMS官方网站_时代网站信息管理系统，SDCMS最新版本下载，SDCMS模板下载，AspCms下载 powered by sdcms
+http://weibo.com:8080			
+http://super8.com.cn:80	200	Microsoft-IIS/7.0			速8酒店-速8中国官网-经济型连锁酒店预订-始于1974年的干净和友好。	
+http://coolping.com:80	200	Microsoft-IIS/6.0		        酷评网	    
+http://tgbus.com:80	200	DnionOS/1.2.1.8	::TGbus.com::中国游戏第一门户_电玩巴士_电视游戏_电子游戏_网络游戏_手机游戏_网页游戏
+http://cnblogs.com:80	200		博客园 - 开发者的网上家园
+http://jollymm.com:8080			
+http://feng.com:80	200	nginx	威锋网-第一Apple互动媒体-千万果粉大本营_威锋网
+http://zblogcn.com:8080			
+http://dopool.com:8080			
+http://hupu.com:80	200	nginx/1.4.2	虎扑体育 - 你的体育全世界！
+http://fun.tv:80	200	nginx	风行网-中国领先的新一代视频平台
+http://sudytech.com:8080	200	Apache-Coyote/1.1	南京苏迪科技有限公司
+http://mafengwo.cn:80	200	nginx	旅游攻略,自由行,自助游攻略,旅游社交分享网站 - 蚂蜂窝
+http://mtime.com:8080	200	nginx	 Mtime时光网：让电影遇见生活 
+http://51bi.com:80	200	nginx	51比购网-返利网首页，千万会员青睐的购物返利网站
+http://soufun.com:80	200	nginx	【杭州房地产门户|杭州房地产网】- 杭州搜房网 房天下
+http://59.cn:80	200	Microsoft-IIS/6.0	59互联-虚拟主机域名全国十强,顶级服务器租用/托管和VPS提供商
+http://nandu.com:80	200	nginx	None
+http://2cto.com:80	200	nginx	红黑联盟：十三年IT技术门户 精英梦想由此起航 (网络安全,黑客防御,信息安全,编程,系统,网络)
+http://yundaex.com:80	200	nginx	韵达快递
+http://ikuai8.com:80	200	ASERVER/1.2.9-3	爱快 iKuai-商业场景网络解决方案提供商
+http://bjsako.com:8080			
+http://cheshi.com:80			
+http://jstv.com:80			
+http://eversec.com.cn:8080			
+http://appchina.com:80			
+http://lefeng.com:8080			
+http://mangocity.com:8080			
+http://eguan.cn:8080			
+http://chinanetcenter.com:8080			
+http://haodf.com:8080			
+http://huatu.com:8080			
+http://tiexue.net:8080			
+http://house365.com:8080			
+http://firefox.com.cn:8080			
+http://trip8080.com:8080			
+http://newsmyshop.com:8080			
+http://xcar.com.cn:8080			
+http://meituan.com:8080			
+http://nsfocus.com:80			
+http://cpic.com.cn:8080			
+http://fantong.com:8080			
+http://gamtee.com:8080			
+http://redbaby.com.cn:8080			
+http://trs.com.cn:8080			
+http://zhubajie.com:8080			
+http://mogujie.com:80	200	JuanNiuX/12.8.12	蘑菇街 - 我的买手街！
+http://huanqiu.com:8080			
+http://duoshuo.com:8080			
+http://tp-link.com.cn:8080	200	Microsoft-IIS/7.5	TP-LINK官方网站
+http://codoon.com:80			
+http://yahoo.com:8080			
+http://3322.org:80	200	nginx	领先的云计算、动态域名服务提供商 - 公云PubYun 
+http://tongbu.com:80	200	nginx	苹果助手_苹果手机助手_同步网络官方下载
+http://meitu.com:8080			
+http://hxage.com:8080			
+http://meizu.com:8080			
+http://zhenpin.com:8080	200	nginx	Welcome to nginx!
+http://oschina.net:8080			
+http://tuniu.com:8080			
+http://53kf.com:8080			
+http://dodonew.com:80	200	Nginx	嘟嘟牛，为休闲服务行业提供完整的O2O经营管理方案
+http://acfun.tv:8080			
+http://opera.com:80	200		Opera browser - The fast, safe web browser - Download free
+http://iiyi.com:80	200	nginx/1.2.0	爱爱医医学网
+http://oppo.com:80	200	nginx	『OPPO手机官网』OPPO智能手机_OPPO最新款手机-OPPO智能手机官方网站 
+http://winenice.com:80	200		红酒，葡萄酒,法国红酒,进口红酒,购买美酒首选酒美网JiuMei.com|中国专业的进口葡萄酒直购平台
+http://998.com:80	200	Microsoft-IIS/8.5	格林豪泰连锁酒店官网|快捷酒店网上预订-全国领先的经济型酒店品牌
+http://591wed.com:8080			
+http://sgcc.com.cn:8080			
+http://airchina.com.cn:8080			
+http://looyu.com:80	200	nginx	乐语--高端在线客服第一品牌
+http://baixing.com:8080			
+http://3158.com:8080			
+http://welove520.com:8080			
+http://3158.cn:8080			
+http://8684.cn:80	200	nginx	������ѯ_��������·��ѯ_�������˲�ѯ_����·�߲�ѯ - 8684����
+http://qfpay.com:8080			
+http://wssys.net:8080			
+http://autonavi.com:8080			
+http://hiall.com.cn:8080			
+http://e-chinalife.com:80			
+http://chuangxin.com:80	200	ASERVER/1.2.9-3	chuangxin.com - 创新工场 （Innovation Works）
+http://eyou.net:8080	200	Apache	
+http://diyou.cn:80	200	Apache	帝友-中国互联网金融行业领航者
+http://ztgame.com:80			
+http://1ting.com:8080			
+http://donews.com:8080			
+http://50cms.com:8080	403	WWW Server/1.1	403 - 禁止访问: 访问被拒绝。
+http://mplife.com:8080			
+http://desdev.cn:8080			
+http://womai.com:8080			
+http://lusen.com:8080			
+http://zte.com.cn:8080			
+http://didatuan.com:8080			
+http://cmbc.com.cn:8080			
+http://jeecms.com:8080			
+http://tcl.com:8080			
+http://5sing.com:8080			
+http://phpstat.net:8080			
+http://tcl.com:8080			
+http://youmi.cn:8080			
+http://locojoy.com:8080			
+http://zhuna.cn:80	200	LS/1.4	住哪儿网 - 酒店预订_短租公寓_民宿客栈 400-666-5511
+http://ceair.com:8080			
+http://wacai.com:80	200	Safe3WAF/2.0.1	挖财，我的资产管家投资理财，贷款，互联网金融平台。
+http://chinapost.com.cn:80			
+http://ccidnet.com:8080	404	Apache-Coyote/1.1	Apache Tomcat/6.0.41 - Error report
+http://4.cn:80			
+http://secoo.com:80	200	nginx	寺库网-全球奢侈品服务平台_寺库,我是奢侈品
+http://xinghua.org.cn:80	200	Apache	兴华教育基金-首页
+http://xdf.cn:80	200		新东方网-一站式学习服务平台-新东方-新东方首页
+http://ebrun.com:80	200	Apache	亿邦动力网——电子商务新闻门户
+http://kingosoft.com:80	200	Microsoft-IIS/6.0	青果软件 ― 触屏版
+http://crsky.com:80	200	Microsoft-IIS/7.5	非凡软件站_CRSKY.com_旗舰软件下载站-免费软件、共享软件一网打尽!(原霏凡软件站)
+http://pconline.com.cn:80	200	Tengine	太平洋电脑网_中国第一专业IT门户网站
+http://bilibili.tv:80	200	Tengine	哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ  乾杯~  - bilibili
+http://qyer.com:80	200	nginx	【穷游网】出境游_旅游攻略_自助游攻略_游记攻略_境外旅游 - 穷游网,旅途永无穷尽
+http://admin5.com:80	200	nginx	A5站长网 - 互联网创业者必看的网站 | 关注站长、电商、科技
+http://gfan.com:80	200	GWS/1.0.0	机锋网-【安卓市场Android】Android安卓游戏_安卓市场下载_安卓软件_安卓手机
+http://feng.com:8080	503		
+http://hupu.com:8080			
+http://ecisp.cn:80	200	IIS	易思ESPCMS企业建站系统,CMS系统,免费企业CMS系统,外贸建站,企业CMS,SEO优化,自助建站系统,企业网站程序,企业seo,企业网站源码,外贸企业网站
+http://51bi.com:8080			
+http://mafengwo.cn:8080			
+http://eastmoney.com:80	200	nginx/0.8.34	东方财富网：中国财经第一门户，提供专业的财经、股票、行情、证券、基金、理财、银行、保险、信托、期货、黄金、股吧、博客等各类财经资讯及数据
+http://soufun.com:8080			
+http://liepin.com:80	200		猎聘网 - 中高端人才的互联网招聘平台！
+http://oupeng.com:80	200	Tengine	欧朋Opera手机浏览器官方网站|手机浏览器下载|安卓手机浏览器下载|智能手机浏览器免费下载|欧朋浏览器下载|欧朋流量宝下载|Opera桌面浏览器下载|PC浏览器下载|苹果浏览器下载	
+http://hc360.com:80	200	Apache	慧聪网-中国领先的B2B电子商务平台，帮助所有企业做成生意!
+http://etuan.com:80	200	nginx	一团网，原A5站长团购网 - 国内领先的站长团购平台
+http://56.com:80	200	Tengine	56网_中国最大的原创视频分享网站,在线视频观看,原创视频上传,海量视频搜索 - 56.com
+http://spacebuilder.cn:80	200	Microsoft-IIS/7.5	近乎（Spacebuilder）官网--基于asp.net mvc最强大的SNS社区软件 
+http://yesky.com:80	200	DnionOS/1.2.1	天极网_全球最大中文IT网站 引领中国数字生活
+http://hexun.com:80	200	nginx	和讯网-中国最大财经门户网站
+http://anjuke.com:80	200	nginx	广州房产网，广州二手房，租房，新房，房产信息网–广州58安居客
+http://qiushibaike.com:80	200	nginx																糗事百科 - 最搞笑的原创糗事分享社区		
+http://jiuxian.com:80	200	JXWS	 酒仙网-白酒、红酒、洋酒、保健酒、黄酒、酒具正品特价官方旗舰店 
+http://ppdai.com:80	200	gws2	拍拍贷官网_中国领先互联网金融P2P网贷平台_网络贷款_投资理财
+http://hiwifi.com:80	200	nginx	极路由3_概览_极路由3别墅级顶配无线路由_极路由官网
+http://hiwifi.com:80	200	nginx	极路由3_概览_极路由3别墅级顶配无线路由_极路由官网
+http://sootoo.com:80	200	lighttpd/1.4.35	速途网 - 中国互联网行业社交媒体
+http://now.cn:80	200	Apache	������������-������������������������,������������,������������������,���������������������������������
+http://yinyuetai.com:80	200	T1_WEB/	音悦Tai-口袋·FAN-看好音乐
+http://fengyunzhibo.com:80			
+http://id5.cn:80			
+http://gewara.com:80	200	nginx/1.6.2	广州电影票网上购买预订_广州电影院排片购票_最新上映电影票价_格瓦拉生活网
+http://hikvision.com:80	200	Microsoft-IIS/7.5	
+http://hanweb.com:80	200	Apache/2.4.9 (Unix)	大汉科技
+http://9978.cn:80	200	nginx	精品创业商机_招商_加盟_开店好项目_9978商机网
+http://baomihua.com:80	200	nginx	爆米花网--中国最大的视频社区
+http://dbappsecurity.com.cn:80	404	Microsoft-HTTPAPI/2.0	Not Found
+http://renrendai.com:80	200	Tengine		  人人贷 - 定义你自己的金融，中国3A信用评级互联网理财借贷平台	
+http://300.cn:80	200	Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips DAV/2 PHP/5.3.29	网站建设|企业网站建设|网站制作|网站建设云平台-中企动力科技股份有限公司
+http://candou.com:80	200	nginx	蚕豆网_手机游戏新锐媒体_手游攻略第一站
+http://haier.net:80	200	TWS	首页 | 海尔集团
+http://smartisan.cn:80	200	ARTWS/1.0	锤子科技官网
+http://duokan.com:80	200	Apache	多看阅读(duokan.com) - 海量畅销电子书免费试读，数百万读者阅读首选
+http://codoon.com:8080			
+http://2caipiao.com:80	200		【新浪爱彩】网上买彩票_竞彩网_足彩_福彩_中奖高手最多的彩票网站
+http://jiankongbao.com:80	200	Apache/2.2.15 (CentOS)	监控宝
+http://aicai.com:80	200		【新浪爱彩】网上买彩票_竞彩网_足彩_福彩_中奖高手最多的彩票网站
+http://3322.org:8080			
+http://autohome.com.cn:80	200	nginx	汽车之家_我的汽车网站，我的汽车之家
+http://shendu.com:80	200	YLS/0.1	深度_Android安卓系统刷机包ROM资源门户
+http://ooopic.com:80	200	nginx	我图网,中国最大的设计作品交易平台(设计稿、视频素材)
+http://ehaier.com:80	200	Apache-Coyote/1.1	海尔商城-海尔集团唯一海尔官网商城,全场包邮即送即装可至乡镇村!家电网购空调,冰箱,洗衣机,电视,热水器的首选商城
+http://imobile.com.cn:80	200	nginx/1.0.10	手机之家首页_手机之家_中国最大的手机网站
+http://zto.cn:80			
+http://cofco.com:80			
+http://che168.com:80	200	nginx	【二手车_二手车交易市场_二手车网上交易平台】_二手车之家
+http://oppo.com:8080			
+http://52pk.com:80	200	DnionOS/1.2.1.3	游戏第一综合门户_52pk游戏网
+http://winenice.com:8080			
+http://cndns.com:80	200	nginx/1.7.7	美橙互联|域名注册|域名查询|域名申请|虚拟主机|企业邮箱|网站建设|云主机|网络推广尽在"美橙互联"
+http://m1905.com:80	200	nginx	电影网_1905.com-电影网_1905.com
+http://diyicai.com:80	200	nginx	第一彩彩票-福利彩票双色球_福彩3d_超级大乐透_时时彩_足球彩票
+http://shenzhenair.com:80	200	IBM_HTTP_Server	深圳航空有限责任公司 官网订票享受票价直减！
+http://sfbest.com:80	200	nginx	顺丰优选-顺丰速运旗下全球美食优选网购商城-进口食品、母婴、营养保健品、生鲜、粮油、酒水饮料、休闲食品-顺丰优选Sfbest.com
+http://mycolorway.com:80	200	nginx	彩程设计-植根用户体验，设计创新软件
+http://zzidc.com:80	200	nginx	景安网络-河南最大的民营数据中心！提供服务器租用、服务器托管、快云服务器、快云VPS、虚拟主机、免费SSL证书等
+http://kuwo.cn:80	200	nginx	酷我音乐_中国最新最全的在线正版音乐网站
+http://looyu.com:8080			
+http://hairongyi.com:80	200	Apache-Coyote/1.1			海融易
+http://998.com:8080	403	Microsoft-IIS/8.5	403 - 禁止访问: 访问被拒绝。
+http://ename.cn:80			
+http://pp.cc:80	200	nginx	皮皮精灵-专业的微信微博自媒体营销运营服务平台
+http://zoomla.cn:80	200	Microsoft-IIS/7.5	Zoomla!逐浪CMS-中国最大的高端CMS+移动互联网+智慧云软件研发厂商、上海-南昌两大研发中心、门户站群|商城系统|同步支持MSSQL与Oracle优质CMS解决方案服务商
+http://mydrivers.com:80	200	Microsoft-IIS/7.5	快科技(原驱动之家)--全球最新科技资讯专业发布平台
+http://icafe8.com:80	200	Apache	
+http://8684.cn:8080			
+http://10086.cn:80	200	Apache/2.4.6 (Unix)	None
+http://dolphin.com:80	200	nginx/1.1.19	Dolphin Browser - Fast, smart and personal mobile browser - Download Free
+http://17k.com:80	200	nginx/1.6.2	小说-17K小说网|免费小说下载,最新最好看的小说网
+http://lesuke.com:80	200	nginx/1.6.2	乐宿客 - 酒店预订_宾馆预订_酒店直销平台
+http://e-chinalife.com:8080			
+http://leiphone.com:80	200	nginx	智能硬件_移动互联网时代智能硬件终端第一媒体【雷锋网】
+http://aoshitang.com:80	200		傲世堂_一起来战斗_SLG从这里开始
+http://ele.me:80	200	Tengine/2.1.0	饿了么-网上订餐_外卖_饿了么订餐官网
+http://fumu.com:80	200	nginx/1.6.0	父母网(www.fumu.com) - 中国最领先的母婴网上社区
+http://immomo.com:80	200	momo	陌陌官网
+http://gw.com.cn:80	200	nginx/1.6.2	大智慧--中国最具影响力的证券投资服务品牌，股票_行情_个股查询_炒股软件_财经_证券_公司行业新闻_投资论坛_操盘分析_决策投资
+http://chinabank.com.cn:80	200	nginx	在线快捷支付 网上安全支付  第三方支付 网银在线
+http://hinews.cn:80	200	nginx	南海网－海南新闻网－权威媒体 海南门户
+http://chinapost.com.cn:8080			
+http://300.cn:8080			
+http://4.cn:8080			
+http://v2ex.com:8080			
+http://xinghua.org.cn:8080			
+http://founderbn.com:8080			
+http://secoo.com:8080			
+http://ebrun.com:8080			
+http://pconline.com.cn:8080			
+http://crsky.com:8080			
+http://amazon.cn:80	200	Server	亚马逊-网上购物商城：要网购, 就来Z.cn!
+http://admin5.com:8080			
+http://lightinthebox.com:80	200	Tengine/1.5.1		        LightInTheBox - Global Online Shopping for Dresses, Home & Garden, Electronics, Wedding Apparel	    
+http://zhimei.com:80	200		登录_大街网_预见新自己！
+http://tiancity.com:80	200	nginx	世纪天成 - 首页
+http://ecisp.cn:8080			
+http://eastmoney.com:8080			
+http://bilibili.tv:8080			
+http://edong.com:80	200	Microsoft-IIS/6.0			【虚拟主机_服务器租用_服务器托管】 - 中国E动网	
+http://gfan.com:8080	401	Apache-Coyote/1.1	Apache Tomcat/7.0.53 - Error report
+http://12321.cn:80	200	nginx	12321网络不良与垃圾信息举报受理中心
+http://safedog.cn:8080			
+http://liba.com:80	200	Apache	篱笆网 - 年轻家庭 生活社区
+http://hc360.com:8080			
+http://tuan800.com:80	200		团800团购导航 - 专业团购网站大全,团购网首选
+http://moko.cc:80	200	Apache-Coyote/1.1	MOKO!美空——中国最大的互联网娱乐人才供应商
+http://oupeng.com:8080			
+http://kongzhong.com:80	200	nginx/1.6.2	空中网——互联网游戏、无线增值、手机游戏、无线娱乐互动门户
+http://bizcn.com:80	200	nginx/0.8.50	域名注册,虚拟主机,企业邮局,服务器租用,服务器托管,主机 控制面板,域名 控制面板-商务中国
+http://xinnet.com:8080			
+http://etuan.com:8080			
+http://zhaopin.com:80	200	nginx, 172.30.2.26	������_������_���������_������������������������
+http://destoon.com:80	200	Microsoft-IIS/6.0	B2B(电子商务)行业门户解决方案 - 开源PHP B2B网站系统 - Destoon B2B网站管理系统
+http://zbird.com:80	200	Tengine	【钻石小鸟官网】钻石|钻戒品牌_对戒|钻戒定制网_钻石图片_钻石交易网|婚戒定制首选品牌-钻石小鸟官网
+http://sto.cn:8080			
+http://22.cn:80	200	Microsoft-IIS/8.5			域名注册|域名查询|域名拍卖|域名抢注|域名交易|域名中介|域名拍卖|域名申请-尽在"爱名网22.CN"	
+http://yesky.com:8080			
+http://hexun.com:8080			
+http://spacebuilder.cn:8080			
+http://zuzuche.com:80	200	web21/x	租车_国际租车_租车比价_全球特价租车预订 -【租租车】
+http://kuaiyong.com:80	200	nginx	快用苹果助手_苹果手机助手_快用苹果助手官网_快用苹果助手下载官网
+http://baofeng.com:80	200	nginx/1.4.1	暴风影音-高清3d电影,最新电视剧,在线观看,暴风影音5下载,暴风影音万能播放器
+http://zgsj.com:80	200	Apache/2.2.3 (CentOS)	top域名|域名注册|域名申请|空间申请|智能建站|虚拟主机|云主机|VPS主机|网站建设|主机租用|企业邮局-中国数据
+http://fengyunzhibo.com:8080			
+http://id5.cn:8080			
+http://diditaxi.com.cn:8080			
+http://sootoo.com:8080			
+http://now.cn:8080			
+http://hanweb.com:8080	200	Apache-Coyote/1.1	Apache Tomcat
+http://baomihua.com:8080			
+http://9978.cn:8080			
+http://yinyuetai.com:8080			
+http://ucloud.cn:80	200	nginx	UCloud – 专业云计算服务商
+http://jiankongbao.com:8080			
+http://jushanghui.com:8080			
+http://yihaodian.com:8080			
+http://candou.com:8080	200	nginx	
+http://zto.cn:8080			
+http://cofco.com:8080			
+http://shendu.com:8080			
+http://autohome.com.cn:8080			
+http://ehaier.com:8080			
+http://pook.com:80	200	BKWS	波克城市官方下载-斗地主,麻将,德州扑克等网络棋牌游戏平台 
+http://imobile.com.cn:8080			
+http://kuaidadi.com:80	200	Tengine/2.0.3	快的打车 | 打车神器 - 全国最大的手机智能打车软件
+http://mycolorway.com:8080			
+http://pcauto.com.cn:80	200	Tengine	太平洋汽车网_精准报价_权威评测_汽车世界,由此精彩
+http://breadtrip.com:80	200	nginx/1.1.19	面包旅行
+http://m1905.com:8080	200	nginx/1.4.7	Welcome to nginx!
+http://sfbest.com:8080			
+http://ename.cn:8080			
+http://h3c.com:80	200	Microsoft-IIS/6.0	H3C - IToIP Solutions Expert
+http://sdcms.cn:8080			
+http://189.cn:80	200	nginx	None
+http://super8.com.cn:8080			
+http://coolping.com:8080			
+http://htinns.com:80	200	Microsoft-IIS/7.5	华住酒店【原汉庭连锁酒店预订官网】	         -华住酒店集团官网
+http://pclady.com.cn:80	200	Tengine	PCLADY-[太平洋时尚网]
+http://tgbus.com:8080			
+http://cnblogs.com:8080			
+http://pcbaby.com.cn:80	200	Tengine	太平洋亲子网_父母最贴心的亲子门户网站
+http://zzidc.com:8080	502	nginx	502 Bad Gateway
+http://v5shop.com.cn:80	200	WWW Server/1.1	V5shop微分销_微信分销系统_O2O系统_上海威博网络技术有限公司官网
+http://17k.com:8080			
+http://leiphone.com:8080			
+http://pp.cc:8080			
+http://stockstar.com:80	200	Microsoft-IIS/6.0	证券之星_中国交易者第一门户_股票_基金_外汇_期货_黄金_行情
+http://mydrivers.com:8080			
+http://fumu.com:8080	200	Apache-Coyote/1.1	Untitled
+http://fun.tv:8080			
+http://59.cn:8080			
+http://nandu.com:8080			
+http://2cto.com:8080			
+http://yundaex.com:8080			
+http://pcgames.com.cn:80	200	Tengine	太平洋游戏网_竞技游戏第一门户
+http://gw.com.cn:8080			
+http://immomo.com:8080			
+http://pcpop.com:80	200	Microsoft-IIS/7.5	泡泡网_PCPOP.com - 新科技•购鲜活
+http://haier.com:80	200	TWS	海尔官网|你的生活智慧，我的智慧生活
+http://shipin7.com:80			
+http://rong360.com:80	200	nginx/1.4.4	广州贷款_小额贷款_贷款公司_银行贷款 - 融360
+http://netentsec.com:80			
+http://app111.com:80	200	Microsoft-IIS/7.5	苹果园-iPhone6 plus/iPhone5s/iPhone5游戏[软件]_iPad mini/iPad游戏[软件]苹果官网下载
+http://pchouse.com.cn:80	200	Tengine	太平洋家居网_时尚家居精品导购互动平台
+http://zhe800.com:80	200		【折800官网】折八百,天天特价九块九,9.9包邮秒杀在折800网!
+http://jobui.com:80	200	nginx/18/133	职友集(全国)：发现中国好公司，最好的求职找工作网站
+http://cmstop.com:80	200	nginx	CmsTop 思拓合众 互联网+媒体解决方案领导者
+http://caijing.com.cn:80	200	nginx	 财经网 - CAIJING.COM.CN
+http://mama.cn:80	200	senginx/1.6.2	妈妈网_官方网站_怀孕、育儿等知识交流平台_中国妈妈第一门户网站
+http://csair.com:80	200	Microsoft-IIS/7.5	中国南方航空官网-机票查询,机票预定,航班查询
+http://foxitsoftware.cn:80	200	Apache/2.2.22 (Debian)	福昕软件—全球领先的PDF文档核心技术与应用服务
+http://zuche.com:80	200	Tengine/1.5.2	神州租车—新客户首日0元租！中国最大租车公司!天天超低价!!!
+http://dodonew.com:8080	200	Nginx	嘟嘟牛，为休闲服务行业提供完整的O2O经营管理方案
+http://zhimei.com:8080			
+http://ikuai8.com:8080			
+http://go.cn:80			
+http://115.com:80	200	nginx	115，全新的生活方式！
+http://cheshi.com:8080			
+http://jstv.com:8080			
+http://appchina.com:8080			
+http://51credit.com:80	200	nginx	中国领先个人金融门户-信用卡贷款综合服务平台-我爱卡
+http://spb.gov.cn:80	200	Apache/2.4.6 (Unix)	中华人民共和国国家邮政局
+http://bizcn.com:8080			
+http://moko.cc:8080			
+http://segmentfault.com:80	200		SegmentFault
+http://kongzhong.com:8080			
+http://qiniu.com:80	200	nginx/1.4.4	云存储首页 七牛云存储 - 移动时代的云存储服务商
+http://zbird.com:8080			
+http://onefoundation.cn:80			
+http://thinkphp.cn:80	200	nginx	ThinkPHP框架 | 中文最佳实践PHP开源框架,专注WEB应用快速开发8年！  
+http://51zhangdan.com:80	200	openresty	51信用卡—一家服务于中国亿万信用卡用户的互联网金融公司
+http://phpyun.com:80	200	nginx	人才系统_PHP人才招聘网站系统源码_人才招聘程序 - PHP云系统
+http://destoon.com:8080			
+http://jj.cn:80	200	nginx	【JJ斗地主官方下载】JJ比赛jj.cn-在线斗地主、德州扑克、麻将等棋牌竞技平台-享受棋牌竞技的快乐
+http://anymacro.com:80			
+http://antiy.com:80	200	nginx	安天实验室 | 下一代反病毒引擎创造者 
+http://zhujiwu.com:80	200	Microsoft-IIS/7.5	主机屋-中国领先的云主机、虚拟主机、域名注册服务商
+http://500wan.com:80	200	nginx	500万彩票网(500.com)-彩票合买-足彩-足球彩票-体育彩票-竞彩-福利彩票
+http://paidai.com:80	200	nginx	派代网 – 做电商上派代
+http://zuzuche.com:8080			
+http://mbaobao.com:80			
+http://qibosoft.com:80	200	Apache/2.0.63 (Win32) PHP/5.2.14	齐博地方门户网站系统，齐博分类信息系统，b2b电子商务门户网站项目首选建站平台！齐博CMS官方网站
+http://tongbu.com:8080			
+http://kuaiyong.com:8080	403	nginx	Apache HTTP Server Test Page powered by CentOS
+http://meishichina.com:80	200	DnionOS/1.2.1	美食天下|美食|菜谱大全|家常菜谱|美食社区-最大的中文美食网站
+http://opera.com:8080			
+http://iiyi.com:8080			
+http://zgsj.com:8080			
+http://yto.net.cn:80			
+http://baofeng.com:8080			
+http://sitestar.cn:80	200	Microsoft-IIS/7.0	建站之星－完全免费的新一代智能建站系统|自助建站|网站建设
+http://ucloud.cn:8080			
+http://tieyou.com:80	200	Apache	火车票网上订票_12306火车票网上订票_网上订火车票【铁友网官网】
+http://hb-n-tax.gov.cn:80			
+http://t3.com.cn:80	200	nginx/1.8.0	中演票务通-行业领先的网上订票网站,全国订票电话400-818-3333
+http://meilishuo.com:80	200	nginx/1.7.2	美丽说，开启全新时尚发现之旅
+http://chanjet.com:80			
+http://tebon.com.cn:80	200	Apache	
+http://chuangxin.com:8080			
+http://diyou.cn:8080			
+http://ztgame.com:8080			
+http://duobei.com:80	200	ASERVER/1.2.9-3	多贝公开课
+http://qmango.com:80	200	Microsoft-IIS/6.0	国际青旅_客栈_青年旅舍_酒店住宿预订平台-青芒果旅行网・中国领先国际青旅、客栈、青年旅舍在线预订平台
+http://umeng.com:80	200	Tengine	友盟_中国最大的移动开发者服务平台 - umeng.com
+http://cnaaa.com:80	200	nginx	3A网络|服务器租用|香港空间|香港VPS|服务器托管|域名注册|虚拟主机|合租服务器
+http://sohu.com:80	200	SWS	搜狐-中国最大的门户网站
+http://douguo.com:80	200	nginx/1.5.7	豆果美食_开启美味生活_中文美食菜谱分享网站，提供优质的家常菜谱大全、餐厅餐馆与美食网购信息
+http://jumei.com:80	200	Tengine	聚美优品 - 中国最大正品化妆品团购网站SH,千万用户推荐,拆封30天无条件退货!
+http://zhuna.cn:8080			
+http://wacai.com:8080			
+http://xinnet.com:80	200	nginx	新网-顶级域名注册与互联网基础应用服务提供商(www.xinnet.com)
+http://zqgame.com:80	200	nginx/1.1.19	深圳中青宝互动网络股份有限公司
+http://xdf.cn:8080			
+http://kingosoft.com:8080			
+http://qyer.com:8080			
+http://99bill.com:80	200	Oracle-Application-Server-10g	快钱公司
+http://pcauto.com.cn:8080			
+http://dbw.cn:80	200	Microsoft-IIS/7.5	东北网
+http://breadtrip.com:8080	404	Apache/2.2.20 (Ubuntu)	404 Not Found
+http://liepin.com:8080			
+http://onlylady.com:80	200	Apache	【OnlyLady女人志】专业时尚女性网_女性美容互动平台
+http://weipai.cn:80	200	nginx	weipai
+http://pclady.com.cn:8080			
+http://pcbaby.com.cn:8080			
+http://56.com:8080			
+http://boc.cn:80			
+http://qiushibaike.com:8080			
+http://jiuxian.com:8080			
+http://ppdai.com:8080			
+http://anjuke.com:8080	200	nginx	广州房产网，广州二手房，租房，新房，房产信息网–广州58安居客
+http://51talk.com:80	200	nginx	51Talk无忧英语,国内首家学员最多,外教最多在线英语培训领先机构,网上真人外教一对一在线英语教育第一品牌
+http://nbcb.com.cn:80			
+http://pcgames.com.cn:8080			
+http://91160.com:80	403		
+http://yuantiku.com:80	200	Tengine	猿题库 - 从此爱上练习
+http://gf.com.cn:80	200	Microsoft-IIS/7.5	广发证券
+http://hikvision.com:8080			
+http://dbappsecurity.com.cn:8080			
+http://renrendai.com:8080			
+http://haier.net:8080			
+http://duokan.com:8080			
+http://jiathis.com:80	200	nginx/1.4.4	JiaThis - 中国最大的社会化分享按钮及分享代码提供商！
+http://2caipiao.com:8080			
+http://nuomi.com:80	200	Apache	【杭州团购】杭州团购网站，高品质团购网站-百度糯米
+http://aicai.com:8080			
+http://shipin7.com:8080			
+http://ooopic.com:8080			
+http://pcpop.com:8080			
+http://netentsec.com:8080			
+http://app111.com:8080			
+http://cndns.com:8080			
+http://che168.com:8080			
+http://rong360.com:8080			
+http://pchouse.com.cn:8080			
+http://bangcle.com:80	200		梆梆 - 专业的移动应用安全服务提供商
+http://jobui.com:8080			
+http://cmstop.com:8080			
+http://homeinns.com:80	200	Microsoft-IIS/7.5	如家酒店集团官方网站-网上预订:如家酒店 莫泰168酒店 和颐酒店
+http://diyicai.com:8080			
+http://shenzhenair.com:8080			
+http://caijing.com.cn:8080			
+http://hairongyi.com:8080			
+http://mama.cn:8080			
+http://wandoujia.com:80	200	Tengine	「豌豆荚」官方网站
+http://foxitsoftware.cn:8080	403	Microsoft-IIS/7.5	403 - Forbidden: Access is denied.
+http://ujipin.com:80	200	UWS/1.0	优集品_全球买手模式、海外家居品牌直采、100%正品保证 
+http://cyzone.cn:80	200	Tengine	创业邦  -  全球视野的创业信息和专业服务平台
+http://go.cn:8080			
+http://115.com:8080	404	nginx	
+http://51credit.com:8080			
+http://damai.cn:80	200		大麦网-全球华语排名领先票务网站(Damai.cn)-100%正品、先付先抢、在线选座！
+http://kuwo.cn:8080	200	nginx	酷我音乐_中国最新最全的在线正版音乐网站
+http://zoomla.cn:8080			
+http://icafe8.com:8080			
+http://jinjianginns.com:80			
+http://10086.cn:8080			
+http://dolphin.com:8080			
+http://lesuke.com:8080			
+http://aoshitang.com:8080			
+http://ele.me:8080			
+http://segmentfault.com:8080			
+http://nipic.com:80	200	Tengine/1.5.2	昵图网_原创素材共享平台www.nipic.com
+http://thinkphp.cn:8080			
+http://itenable.com.cn:80	200	Apache	
+http://phpyun.com:8080			
+http://mingdao.com:80	200		明道－企业协作SaaS软件，推动透明沟通，扁平协作和自发管理
+http://jj.cn:8080			
+http://anymacro.com:8080			
+http://zhujiwu.com:8080			
+http://paidai.com:8080			
+http://antiy.com:8080			
+http://itpub.net:80			
+http://chinabank.com.cn:8080			
+http://hinews.cn:8080			
+http://cnzxsoft.com:80			
+http://amazon.cn:8080			
+http://szse.cn:80			
+http://tiancity.com:8080			
+http://edong.com:8080			
+http://12321.cn:8080			
+http://liba.com:8080			
+http://newone.com.cn:80			
+http://cdb.com.cn:80			
+http://tuan800.com:8080			
+http://yto.net.cn:8080			
+http://zhaopin.com:8080			
+http://22.cn:8080			
+http://nsfocus.com:8080			
+http://bitauto.com:80	200		【杭州汽车网|杭州车市_杭州汽车报价_杭州汽车团购服务】_易车网	    
+http://cgbchina.com.cn:80			
+http://hb-n-tax.gov.cn:8080			
+http://enorth.com.cn:80	200	*******	天津北方网——权威媒体 天津门户
+http://mogujie.com:8080			
+http://sino-life.com:80	200	Apache/2.4.12 (Unix)	生命人寿保险官网
+http://cmbchina.com:80			
+http://pook.com:8080			
+http://stockstar.com:8080			
+http://kuaidadi.com:8080			
+http://legendsec.com:80			
+http://h3c.com:8080			
+http://189.cn:8080			
+http://htinns.com:8080			
+http://v5shop.com.cn:8080			
+http://jb51.net:80	200	Microsoft-IIS/6.0	脚本之家_www.jb51.net
+http://hiwifi.com:8080			
+http://qmango.com:8080			
+http://cnpc.com.cn:80			
+http://lecai.com:80	200	nginx/1.2.5	百度彩票 - 安全的网上购彩平台 - 彩票在线投注|福利彩票|体育彩票|竞彩|高频彩
+http://duobei.com:8080			
+http://petrochina.com.cn:80			
+http://99bill.com:8080			
+http://piccnet.com.cn:80			
+http://jumei.com:8080			
+http://yongche.com:80	200	Apache	易到用车网
+http://17500.cn:80	200	nginx	乐彩网www.17500.cn,原创+专业+人气旺,踏实服务我国彩票公益事业
+http://cnfol.com:80	200	Apache	中金在线首页：财经 _ 股票 _ 证券 _ 金融 _ 财经博客
+http://pingan.com:80	200		中国平安官网-中国平安保险（集团）股份有限公司-保险，银行，投资
+http://hiwifi.com:8080			
+http://smartisan.cn:8080			
+http://haier.com:8080			
+http://52pk.com:8080			
+http://zhe800.com:8080			
+http://zuche.com:8080			
+http://shenhuagroup.com.cn:80			
+http://boc.cn:8080			
+http://unionpayintl.com:80	200	IBM_HTTP_Server	银联国际
+http://ubuntu.org.cn:80	200	nginx/1.1.19	Ubuntu | 全球领先的用于个人电脑、平板及手机的操作系统
+http://nbcb.com.cn:8080			
+http://51talk.com:8080			
+http://spb.gov.cn:8080			
+http://juhe.cn:80	200	Apache	API数据接口_开发者数据定制_免费数据调用-聚合数据
+http://wiwide.com:80			
+http://uzai.com:80	200	Microsoft-IIS/6.0, Apache/1.3.14(Unix)	 广州旅游网_广州出发旅游线路价格 - 悠哉旅游网 
+http://wumii.org:80	200	Apache	无秘 - 朋友圈的八卦爆料
+http://gf.com.cn:8080			
+http://fesco.com.cn:80	200	Microsoft-IIS/7.5	BPO-档案管理外包服务-共享服务平台-公司福利体检-人事福利外包_北京外企人力资源服务有限公司（FESCO）
+http://qiniu.com:8080			
+http://onefoundation.cn:8080			
+http://7po.com:80			
+http://51zhangdan.com:8080			
+http://500wan.com:8080			
+http://chinaums.com:80			
+http://htsc.com.cn:80			
+http://jiathis.com:8080			
+http://sfn.cn:80	200	Apache/2.4.9 (Unix)	
+http://btcchina.com:80	200	nginx/1.6.3	比特币中国官网 - 最大比特币莱特币交易平台 支付 挖矿 矿池 btc ltc
+http://lightinthebox.com:8080			
+http://mbaobao.com:8080			
+http://qibosoft.com:8080			
+http://anzhi.com:80	200	nginx	安智官网
+http://meishichina.com:8080			
+http://ecitic.com:80	404		提示
+http://aibang.com:80	200	Apache/2.2.4 (Unix) PHP/5.2.3p1	爱帮巴士-首页
+http://smartisan.com:80	200	ARTWS/1.0	锤子科技官网
+http://24cp.com:80			
+http://58pic.com:80	200	nginx	千图网_中国最大免费素材下载网站_免费设计图片
+http://ebscn.com:80	404	nginx	404 Not Found
+http://sinopec.com:80			
+http://bangcle.com:8080			
+http://swsresearch.com:80			
+http://sitestar.cn:8080			
+http://cnooc.com.cn:80			
+http://tieyou.com:8080			
+http://psbc.com:80	200	Apache	中国邮政储蓄银行
+http://cfsc.com.cn:80	200	Apache	华鑫证券
+http://t3.com.cn:8080			
+http://icbccs.com.cn:80			
+http://cyzone.cn:8080			
+http://ujipin.com:8080			
+http://woniu.com:80	200	nginx/1.2.3s	蜗牛游戏 - 蜗牛，为梦想而生！
+http://yohobuy.com:80	200	Tengine	YOHO!有货 | 年轻人潮流购物中心，中国潮流购物风向标，官方授权正品保证
+http://picchealth.com:80	200				PICC  中国人民健康保险股份有限公司  官方网站	
+http://tujia.com:80	200	Microsoft-IIS/7.5	 途家网-高品质服务公寓,酒店式公寓,家庭旅馆,日租房,短租房,度假公寓,服务式公寓
+http://yaolan.com:80	200	yaolan	摇篮网 - 中国最专业的育儿网站和母婴门户
+http://pingan.com:80	200		中国平安官网-中国平安保险（集团）股份有限公司-保险，银行，投资
+http://h3c.com:80	200	Microsoft-IIS/6.0	H3C - IToIP Solutions Expert
+http://wasu.cn:80	200		华数TV网-高清体育赛事直播 热门综艺电影电视剧动漫在线观看
+http://umetrip.com:80			
+http://sunits.com:80			
+http://comba.com.cn:80			
+http://cdrcb.com:80			
+http://1hai.cn:80	200	Microsoft-IIS/7.5			一嗨租车_引领中国汽车租赁行业,一嗨租车网倡导时尚生活方式,北京上海广州深圳100多座城市异地还车	
+http://nipic.com:8080			
+http://adtsec.com:80	200	Microsoft-IIS/6.0	上海安达通
+http://juesheng.com:80	200	JWS/1.0	决胜网-找教育上决胜-中国唯一基于O2O移动互联网教育产品导购平台-决胜网www.juesheng.com
+http://ifanr.com:80	200	nginx/1.9.3	爱范儿 · Beats of Bits · 连接热爱
+http://zhaoshang.net:80	200	Microsoft-IIS/7.0	IIS7
+http://nffund.com:80	200	Apache	
+http://cytobacco.com:80	403	proxy 0.1.0	
+http://itenable.com.cn:8080			
+http://gongchang.com:80	200	nginx	世界工厂网
+http://chinadaily.com.cn:80	200	nginx	China Daily Website - Connecting China Connecting the World
+http://scti.cn:80			
+http://wowsai.com:80	200	nginx	哇噻网 全球优质设计师纯手工制作产品购物网站
+http://addnewer.com:80	200	Apache	ReachMax官网
+http://zjedu.org:80			
+http://youyuan.com:80	200	yy/1.0.4	--------
+http://itpub.net:8080			
+http://szse.cn:8080			
+http://heetian.com:80	200	nginx/1.5.6	合天智汇信息技术有限公司
+http://essence.com.cn:80			
+http://mbachina.com:80	200	nginx/1.0.12	MBA中国网-最具影响力的商学院门户
+http://cnzxsoft.com:8080	502	nginx	502 Bad Gateway
+http://1218.com.cn:80			
+http://newone.com.cn:8080			
+http://cdb.com.cn:8080			
+http://yungouos.com:80	200	Microsoft-IIS/8.0	YunGouOS_JAVA云购系统、云购网站建站服务提供商
+http://anbanggroup.com:80	200	nginx/1.6.1	安邦保险（集团）股份有限公司 - 保险，银行，投资
+http://ccic-net.com.cn:80	200	Apache/2.2.29 (Unix)	中国大地保险官方网站-汽车保险,旅游保险,意外保险,家庭财产保险
+http://zhuqu.com:80	200	nginx	家居设计，创意家居，家居装修，家具搭配，网上买家具—住趣家居网
+http://cgbchina.com.cn:8080			
+http://cmbc.com.cn:80			
+http://dfzq.com.cn:80			
+http://enorth.com.cn:8080			
+http://sino-life.com:8080			
+http://jsbchina.cn:80	400		
+http://cnpc.com.cn:8080			
+http://jb51.net:8080			
+http://51jingying.com:80	200	Apache	首页-无忧精英
+http://autono1.com:80	200	nginx	第一汽车资讯网_济南车市_济南汽车网_济南汽车报价_山东汽车门户网
+http://xinnet.com:8080			
+http://chaoxing.com:80	200	nginx/1.0.5	None
+http://imooc.com:80	200	nginx	慕课网-国内最大的IT技能学习平台
+http://petrochina.com.cn:8080			
+http://piccnet.com.cn:8080			
+http://lecai.com:8080			
+http://thfund.com.cn:80	200		天弘基金管理有限公司
+http://creditease.cn:80	200	nginx/1.4.7	宜信-中国知名的个人信用管理和财富管理平台 
+http://csair.com:8080	200	Microsoft-IIS/7.5	中国南方航空官网-机票查询,机票预定,航班查询
+http://creditease.cn:80	200	nginx/1.4.7	宜信-中国知名的个人信用管理和财富管理平台 
+http://x.com.cn:80	200	nginx	【桔色商城】成人用品_成人情趣用品_成人性用品_最专业成人用品网站
+http://chanjet.com:8080			
+http://17ugo.com:80	200	nginx/1.7.4	优品惠（优购物）全球优品特卖_中国首家视频购物平台_优品惠（优购物）电视购物官方网站
+http://tebon.com.cn:8080			
+http://jiemian.com:80	403		
+http://zcool.com.cn:80	200	nginx/1.4.7	站酷 (ZCOOL) - 设计师互动平台
+http://umeng.com:8080			
+http://17500.cn:8080			
+http://douguo.com:8080			
+http://cnaaa.com:8080			
+http://zqgame.com:8080			
+http://cnmo.com:80	200	ngx_openresty	手机中国——第一手机门户
+http://onlylady.com:8080			
+http://zhongchou.com:80	200	nginx/1.2.4	众筹网-中国最具影响力的创业众筹融资平台
+http://gewara.com:8080			
+http://cnfol.com:8080			
+http://shenhuagroup.com.cn:8080			
+http://tsinghua.edu.cn:80			
+http://12308.com:80	200		汽车票-12308全国汽车票官网-汽车票预订-长途汽车线路时刻表-汽车票查询-汽车票订票-买汽车票-卖汽车票
+http://tcl.com:80			
+http://juhe.cn:8080	200	Apache-Coyote/1.1	
+http://chinaamc.com:80	200	Microsoft-IIS/6.0	SMS
+http://wiwide.com:8080			
+http://uzai.com:8080	403	Microsoft-IIS/7.5	403 - 禁止访问: 访问被拒绝。
+http://flnet.com:80			
+http://yuantiku.com:8080			
+http://tesla.cn:80	200	Apache	Tesla Motors | 纯进口豪华智能电动四门轿跑车
+http://chinaums.com:8080			
+http://htsc.com.cn:8080			
+http://ahtv.cn:80			
+http://24cp.com:8080			
+http://sinopec.com:8080			
+http://anzhi.com:8080			
+http://coocaa.com:80	603	nginx	--------
+http://ubuntu.org.cn:8080			
+http://swsresearch.com:8080			
+http://kaspersky.com.cn:80	200				卡巴斯基实验室中国 | 互联网安全与反病毒软件	
+http://welomo.com:80	200	nginx	微信印美图 | 分享美一天 - 微信LOMO自助印
+http://cnooc.com.cn:8080			
+http://zank.mobi:80	200	nginx	ZANK|zank|zanke|赞客|飞赞|feizan|blued电脑版|blued同性交友|gay同城交友|jacked交友|同性恋交友平台|同性交友软件|同性交友网站-ZANK 中国最大的同志社区平台
+http://icbccs.com.cn:8080			
+http://picchealth.com:8080			
+http://kf5.com:80	200	nginx	逸创|云客服_服务工单系统_事务工单系统_客服工单系统_Helpdesk_Support ticket system
+http://china-sss.com:80	200	nginx	【春航】春秋航空官方网站‖飞机票查询预订_航班查询_特价机票_打折机票_国际机票预订_电子机票_机票预订_上海机票
+http://wukonglicai.com:80	200	nginx	玖富悟空理财官网，每月随取的高收益理财
+http://daling.com:80	200	DWS/1.0	 达令™-一手全球好货 
+http://camera360.com:80			
+http://chsi.com.cn:80	200	nginx	中国高等教育学生信息网（学信网）
+http://chsi.com.cn:80	200	nginx	中国高等教育学生信息网（学信网）
+http://ehaier.com:80	200	Apache-Coyote/1.1	海尔商城-海尔集团唯一海尔官网商城,全场包邮即送即装可至乡镇村!家电网购空调,冰箱,洗衣机,电视,热水器的首选商城
+http://bankofshanghai.com:80	200	Apache	上海银行
+http://homeinns.com:8080			
+http://zszq.com:80	200		小鹿金融
+http://wandoujia.com:8080			
+http://88.com.cn:80	200	nginx	88财富网，一站式综合金融服务商_互联网个人投资理财平台_网上p2p、p2c保本型理财产品
+http://vasee.com:80			
+http://damai.cn:8080			
+http://jinjianginns.com:8080			
+http://umetrip.com:8080			
+http://sunits.com:8080			
+http://comba.com.cn:8080			
+http://cdrcb.com:8080			
+http://mingdao.com:8080			
+http://juesheng.com:8080			
+http://zhaoshang.net:8080			
+http://gongchang.com:8080			
+http://yxdown.com:80	200	Microsoft-IIS/7.5	单机游戏_单机游戏中文版下载_单机游戏大全_单机游戏下载基地_游迅网
+http://scti.cn:8080			
+http://zjedu.org:8080			
+http://youzu.com:80	200	nginx	游族网络游戏平台_精品网页游戏丨手机游戏运营平台_玩游戏,上youzu.com
+http://wowsai.com:8080			
+http://cec.com.cn:80			
+http://essence.com.cn:8080			
+http://56.com:80	200	Tengine	56网_中国最大的原创视频分享网站,在线视频观看,原创视频上传,海量视频搜索 - 56.com
+http://unionpay.com:80	200	Apache	Welcome to UnionPay, the Global Leading Bankcard Association
+http://1218.com.cn:8080			
+http://mbachina.com:8080			
+http://csrc.gov.cn:80			
+http://yungouos.com:8080	403	Microsoft-IIS/8.0	403 - 禁止访问: 访问被拒绝。
+http://anbanggroup.com:8080			
+http://cmbc.com.cn:8080			
+http://dfzq.com.cn:8080			
+http://itouzi.com:80	200	nginx/1.6.2	爱投资-最安全规范的互联网金融创新工场-P2P网贷投资理财首选平台，P2C网贷首创者
+http://zhuqu.com:8080			
+http://ciwong.com:80	200	Microsoft-IIS/7.5	习网-在线学习-习信-互联网教育第一平台
+http://minmetals.com.cn:80			
+http://chaoxing.com:8080			
+http://autono1.com:8080	200	nginx	Apache Tomcat/7.0.54
+http://chinahr.com:80	200	Apache	招聘网_找工作_求职_最新人才招聘 -58中华英才网
+http://jinri.cn:80	200	Microsoft-IIS/7.5			今日・天下通 - 中国最大的机票批发平台 电子客票交易平台 政策好	
+http://cdce.cn:80	200	Microsoft-IIS/6.0			中国现代远程与继续教育网.	
+http://ccic-net.com.cn:8080	200		中国大地财产保险股份有限公司
+http://bitauto.com:8080			
+http://cmbchina.com:8080			
+http://mcafee.com:80	200	Microsoft-IIS/7.5	McAfee—Antivirus, Encryption, Firewall, Email Security, Web Security, Risk & Compliance
+http://legendsec.com:8080			
+http://ssscc.com.cn:80			
+http://okcoin.com:80	200	nginx	OKCoin美元交易站 - 最专业的比特币美元交易平台
+http://jzjt.com:80			
+http://chexun.com:80	200	nginx	车讯网-最值得信赖的汽车网站
+http://sgcc.com.cn:80			
+http://phfund.com.cn:80			
+http://sinosig.com:80			
+http://mcdonalds.com.cn:80	200	Apache	主页 :: 麦当劳中国
+http://bytedance.com:80	200	Tengine/2.1.0	头条 - 关于我们
+http://cmfchina.com:80			
+http://ncfund.com.cn:80			
+http://epf.com.cn:80			
+http://x.com.cn:8080			
+http://zcool.com.cn:8080			
+http://leyou.com.cn:80	200	Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny9 with Suhosin-Patch mod_ssl/2.2.9 OpenSSL/0.9.8g	乐乐闪-首页
+http://fsfund.com:80			
+http://cnmo.com:8080			
+http://yongche.com:8080			
+http://sohu.com:8080			
+http://weipai.cn:8080			
+http://pingan.com:8080			
+http://unionpayintl.com:8080			
+http://wumii.org:8080			
+http://fesco.com.cn:8080			
+http://7po.com:8080			
+http://91160.com:8080			
+http://sfn.cn:8080			
+http://aibang.com:8080			
+http://58pic.com:8080			
+http://ebscn.com:8080			
+http://btcchina.com:8080			
+http://cfsc.com.cn:8080			
+http://psbc.com:8080			
+http://woniu.com:8080			
+http://yohobuy.com:8080			
+http://tujia.com:8080			
+http://pingan.com:8080			
+http://yaolan.com:8080			
+http://ebay.com:80	200	Apache-Coyote/1.1	 Electronics, Cars, Fashion, Collectibles, Coupons and More | eBay 
+http://h3c.com:8080			
+http://wasu.cn:8080			
+http://1hai.cn:8080			
+http://adtsec.com:8080			
+http://nffund.com:8080			
+http://ifanr.com:8080			
+http://cytobacco.com:8080			
+http://yixin.com:80			
+http://chinadaily.com.cn:8080			
+http://addnewer.com:8080			
+http://youyuan.com:8080			
+http://heetian.com:8080			
+http://jxlife.com.cn:80			
+http://jsbchina.cn:8080			
+http://51jingying.com:8080			
+http://creditease.cn:8080			
+http://creditease.cn:8080			
+http://17ugo.com:8080			
+http://thfund.com.cn:8080			
+http://orient-fund.com:80			
+http://epf.com.cn:80			
+http://gtfund.com:80			
+http://tsinghua.edu.cn:8080			
+http://tcl.com:8080			
+http://weizhonggou.com:80	200		微众购 - 惊喜无限
+http://hazq.com:80	200	Apache-Coyote/1.1	华安证券 - 首页
+http://jyvpfund.com:80			
+http://lionfund.com.cn:80			
+http://feiniu.com:80	200		飞牛网-大润发网上商城
+http://flnet.com:8080			
+http://sursen.net:80			
+http://hzhz.co:80			
+http://ctfund.com:80			
+http://ahtv.cn:8080			
+http://vvipone.com:80	200		一号专车
+http://hit.edu.cn:80			
+http://yirendai.com:80	200	nginx/1.2.2	宜人贷_个人无抵押小额信用贷款_P2P网络贷款/网上借贷平台
+http://m6go.com:80	200	nginx/1.6.2	麦乐购_进口母婴商城-进口奶粉,辅食,纸尿裤,营养品,童装-100%正品100%安全-麦乐购购安全
+http://chinapnr.com:80	200	nginx/1.4.4	汇付天下 金融支付 | 账户托管 | 理财平台
+http://yirendai.com:80	200	nginx/1.2.2	宜人贷_个人无抵押小额信用贷款_P2P网络贷款/网上借贷平台
+http://tdxinfo.com:80	200	twsm1	天地行 采购商 登录
+http://51idc.com:80	200	nginx/1.8.0	BGP云主机_服务器租用托管_数据中心，中国最大的IaaS混合云服务平台
+http://bcia.com.cn:80			
+http://yingjiesheng.com:80	200		应届生求职网_校园招聘_YingJieSheng.COM_中国领先的大学生求职网站
+http://228.com.cn:80	200	Apache/2.0.58	永乐票务-中国领先的专业演出票务网，订票电话4006-228-228
+http://chinaamc.com:8080			
+http://aeonlife.com.cn:80	200	Apache/2.2.22 (CentOS)	百年人寿保险股份有限公司-创新百年  关爱永恒
+http://welomo.com:8080			
+http://zank.mobi:8080			
+http://itouzi.com:80	200	nginx/1.6.2	爱投资-最安全规范的互联网金融创新工场-P2P网贷投资理财首选平台，P2C网贷首创者
+http://wukonglicai.com:8080			
+http://shengpay.com:80	200	nginx/1.4.7	盛付通 - 第三方网上在线支付平台 - 支付改变生活
+http://kyfw.12306.cn:80	200			中国铁路客户服务中心	
+http://ehaier.com:8080			
+http://chsi.com.cn:8080			
+http://chsi.com.cn:8080			
+http://fund001.com:80	200	Apache/2.2.21 (Win32)	交银施罗德基金官方网站
+http://88.com.cn:8080			
+http://lufax.com:80	200	LWS/1.1	中国平安陆金所官网是投资理财、信贷等服务的首家网络投融资平台
+http://youzu.com:8080			
+http://cits.cn:80	200	CITS	中国国旅•品质旅游专家-中国国际旅行社总社官网-国旅在线(CITS)
+http://touna.cn:80	200	nginx	投哪网P2P理财-广发战略注资P2P网贷平台,广发证券战略合作伙伴
+http://hhedai.com:80	200	YxlinkWAF	黄河金融 -	         官网 - 上市公司运营、保险承保的安全理财超市（万好万家，600576）
+http://qufenqi.com:80	200	nginx	趣分期 - 深受中国大学生喜爱的分期商城
+http://myfund.com:80	200	Microsoft-IIS/7.5	展恒基金网 - 服务最好，买基金手续费全免的投资理财网站[基金配资|阳光私募|基金净值查询]
+http://pinganfang.com:80	200		杭州新房，杭州二手房，杭州租房，好房宝【平安好房】
+http://cec.com.cn:8080			
+http://plu.cn:80	200	nginx/1.6.3	PLU游戏视频互动平台 - 海量的游戏主播、高手、美女及电竞比赛直播、视频平台
+http://csrc.gov.cn:8080			
+http://beibei.com:80	200	Tengine/1.5.2	贝贝网-妈妈的特卖会! 千万妈妈信赖的母婴正品特卖商城
+http://mizhe.com:80	200	Husor/1.1.0	米折网-我的时尚特卖会! 千万女性专属的品牌折扣特卖会
+http://s.cn:80	200		名鞋库网上鞋城,超值名牌鞋服网站,买鞋子,就在S.cn名鞋库！
+http://cankaoxiaoxi.com:80	200	nginx/0.8.53	《参考消息》官方网站_参考消息电子版_参考消息报
+http://vivo.com.cn:80	200	nginx	vivo智能手机官方网站-MTV全球音乐电视台战略合作伙伴
+http://boqii.com:80	403		
+http://ecitic.com:8080			
+http://smartisan.com:8080			
+http://nuomi.com:8080			
+http://minmetals.com.cn:8080			
+http://jzjt.com:8080			
+http://ciwong.com:8080			
+http://sgcc.com.cn:8080			
+http://phfund.com.cn:8080			
+http://cmfchina.com:8080			
+http://wacai.com:80	200	Safe3WAF/2.0.1	挖财，我的资产管家投资理财，贷款，互联网金融平台。
+http://ncfund.com.cn:8080			
+http://epf.com.cn:8080			
+http://chinahr.com:8080			
+http://fsfund.com:8080			
+http://chexun.com:8080			
+http://yixin.com:8080			
+http://voc.com.cn:80	200	VocCache	华声在线 - 湖南味道，中华声音
+http://leyou.com.cn:8080	403	Apache/2.2.9 (Debian) proxy_html/3.0.0	403 Forbidden
+http://zdnet.com.cn:80	200	Apache/2.2.0 (Unix) DAV/2 PHP/5.2.14	至顶网（ZDNet.com.cn）-云计算第一门户
+http://daling.com:8080			
+http://meilishuo.com:8080			
+http://aol.com:80	200	Apache-Coyote/1.1	AOL - News, Sports, Weather, Entertainment, Local & Lifestyle
+http://vasee.com:8080	200	Apache-Coyote/1.1	vasee活动网—简单易用的门票销售和报名收费工具 
+http://hp.com:80	200	Apache	HP® Official Site | Laptop Computers, Desktops, Printers, Servers, Services and more
+http://imooc.com:8080			
+http://jiemian.com:8080			
+http://zhongchou.com:8080			
+http://12308.com:8080			
+http://tesla.cn:8080			
+http://xiangshe.com:80			
+http://coocaa.com:8080			
+http://kaspersky.com.cn:8080			
+http://dbw.cn:8080			
+http://kf5.com:8080			
+http://china-sss.com:8080			
+http://camera360.com:8080			
+http://bankofshanghai.com:8080			
+http://zszq.com:8080			
+http://yxdown.com:8080			
+http://orient-fund.com:8080			
+http://gtfund.com:8080			
+http://epf.com.cn:8080			
+http://56.com:8080			
+http://jyvpfund.com:8080			
+http://lionfund.com.cn:8080			
+http://sursen.net:8080			
+http://hzhz.co:8080			
+http://ctfund.com:8080			
+http://hit.edu.cn:8080			
+http://vvipone.com:8080			
+http://yirendai.com:8080			
+http://tdxinfo.com:8080			
+http://bcia.com.cn:8080			
+http://unionpay.com:8080			
+http://m6go.com:8080			
+http://itouzi.com:8080			
+http://duxiu.com:80	200	nginx	系统登录
+http://91jinrong.com:80	200	ASERVER/1.2.9-3	91金融超市_中国最大的互联网金融服务平台
+http://fxiaoke.com:80	200	nginx	纷享销客-移动互联时代最佳的销售管理工具
+http://gewara.com:80	200	nginx/1.6.2	广州电影票网上购买预订_广州电影院排片购票_最新上映电影票价_格瓦拉生活网
+http://yinxiang.com:80	200	Apache			你的工作空间 | 印象笔记
+http://fanhuan.com:80	200	Microsoft-IIS/7.5	返还网-网购省钱助手,购物返利返现金,天天特价9.9包邮值得买
+http://metao.com:80	200	nginx	 蜜淘_全球购（Metao.com）-专注品质 全球特卖（原CN海淘）_100% 海外正品采购_全网海淘最低价_快速清关_限时赔付_母婴_电子、鞋子、包包_Metao.com
+http://umpay.com:80	200	nginx	联动优势
+http://dianrong.com:80	200		 点融网-Dianrong
+http://gopay.com.cn:80	200	nginx/1.4.7	国付宝-国家级第三方支付平台
+http://cdce.cn:8080			
+http://ssscc.com.cn:8080			
+http://mcafee.com:8080			
+http://okcoin.com:8080			
+http://jinri.cn:8080			
+http://sinosig.com:8080			
+http://mcdonalds.com.cn:8080			
+http://benlai.com:80	200	Microsoft-IIS/7.5		本来生活网 - 中国家庭的优质食品购买平台，冷链配送、安全检测、基地直供    
+http://fengjr.com:80	200		凤凰金融-凤凰卫视集团旗下金融交易服务平台
+http://to8to.com:80	200	nginx	土巴兔装修网_中国装修网
+http://shengpay.com:8080			
+http://plu.cn:8080			
+http://hhedai.com:8080	200	Httpd	Web Management
+http://cits.cn:8080			
+http://fund001.com:8080			
+http://vivo.com.cn:8080			
+http://yirendai.com:8080			
+http://voc.com.cn:8080			
+http://163disk.com:80	200	Microsoft-IIS/6.0	163网盘--网络硬盘|最好的免费网络硬盘
+http://xiangshe.com:8080			
+http://163disk.com:8080			
+http://duxiu.com:8080			
+http://samsung.com:80	200		中国三星电子 - 做中国人民喜爱的企业，贡献于中国社会的企业
+http://fengjr.com:8080			
+http://hongkongairlines.com:80	200	nginx	Fly Hong Kong Airlines | Flights From Hong Kong to Asia, Europe
+http://qidian.com:80	200	Apache	小说阅读_起点中文小说网|免费小说,玄幻小说,武侠小说,青春小说,小说网各类小说下载
+http://qidian.com:8080			
+http://hongkongairlines.com:8080			
+http://jinlianchu.com:80	200	nginx	金联储-利息自选的理财网 亿元安保金 百亿财产险 护航投资安全
+http://haodai.com:80	200	nginx	杭州贷款_杭州贷款公司_杭州贷款申请-好贷网
+http://haodai.com:8080	403	nginx	403 Forbidden
+http://jxlife.com.cn:8080			
+http://weizhonggou.com:8080			
+http://hazq.com:8080			
+http://feiniu.com:8080			
+http://chinapnr.com:8080			
+http://cankaoxiaoxi.com:8080			
+http://51idc.com:8080			
+http://yingjiesheng.com:8080			
+http://228.com.cn:8080			
+http://aeonlife.com.cn:8080			
+http://itouzi.com:8080			
+http://lufax.com:8080			
+http://kyfw.12306.cn:8080			
+http://touna.cn:8080			
+http://qufenqi.com:8080			
+http://myfund.com:8080			
+http://pinganfang.com:8080			
+http://beibei.com:8080			
+http://mizhe.com:8080			
+http://s.cn:8080			
+http://boqii.com:8080			
+http://wacai.com:8080			
+http://zdnet.com.cn:8080			
+http://91jinrong.com:8080			
+http://fxiaoke.com:8080			
+http://yinxiang.com:8080			
+http://fanhuan.com:8080			
+http://umpay.com:8080			
+http://metao.com:8080			
+http://dianrong.com:8080			
+http://benlai.com:8080			
+http://gopay.com.cn:8080			
+http://samsung.com:8080			
+http://jinlianchu.com:8080			
+http://lingying.com:80			
+http://ebay.com:8080			
+http://bytedance.com:8080			
+http://gewara.com:8080			
+http://lingying.com:8080			
+http://hp.com:8080			
+http://to8to.com:8080			
+http://aol.com:8080			

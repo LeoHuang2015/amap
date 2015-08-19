@@ -18,26 +18,6 @@ threadpool = Pool(processes=200)
 TIMEOUT = 5
 scan_results = []
 
-
-def to_unicode(data, charset=None):
-    '''
-    将输入的字符串转化为unicode对象
-    '''
-    unicode_data = ''
-    if isinstance(data,str):
-        if not charset:
-            try:
-                charset = chardet.detect(data).get('encoding')
-            except Exception,e:
-                pass
-        if charset:
-            unicode_data = data.decode(charset,'ignore')
-        else:
-            unicode_data = data
-    else:
-        unicode_data = data
-    return unicode_data
-
 def signal_handler(signal, frame):
     print "Ctrl+C pressed.. aborting..."
     threadpool.terminate()
@@ -61,10 +41,8 @@ def amap_scan(*kw):
 
     target_url = "http://%s:%s" %(host, port)
 
-
     try:
         r = requests.get(target_url, timeout=TIMEOUT, allow_redirects=True)
-        #print "connect target:", target_url
 
         title = ""
 
@@ -76,16 +54,14 @@ def amap_scan(*kw):
         #<meta charset="UTF-8" />
         meta_reg = r"<meta\s.*charset=['\"]?([^'\"]*)?.*?>"
 
-        # requests找不到编码会指定ISO-8859-1，对于中文，基本上都是有问题的，通常是utf-8
+        # requests依据RFC标准，对于不能确定编码会指定ISO-8859-1，对于中文，基本上都是有问题的，通常是utf-8
         if r.encoding == 'ISO-8859-1':
             # requests 默认探测失败，查看页面meta方法获取
             m = re.search(meta_reg, r.text, re.I)
             if m:
-                #print target_url, m.group(1), "||||",m.group()
                 r.encoding = m.group(1)
             else:
                 # 页面js跳转，是无法跟踪的, 默认设置为utf-8
-                #print target_url, "xxxx"
                 r.encoding = 'utf-8'
 
         try:
@@ -98,8 +74,6 @@ def amap_scan(*kw):
         except:
             title = "--------"
 
-
-        #print "[-]", r.status_code, r.headers['Server'], title
         if r.status_code:
             rcode = r.status_code
         if 'Server' in r.headers:

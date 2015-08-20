@@ -46,22 +46,29 @@ def amap_scan(*kw):
 
         title = ""
 
+
+        # requests依据RFC标准，对于不能确定编码会指定ISO-8859-1，对于中文，基本上都是有问题的，通常是utf-8
+        # apparent_encoding 会匹配多个，get_encodings_from_content 误差更大，所以自己使用正则匹配
+
         # 页面meta获取页面编码，有以下几种情况
         #<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         #<meta charset="gbk" />
         #<meta charset="utf-8">
         #<meta charset="utf-8" />
         #<meta charset="UTF-8" />
-        meta_reg = r"<meta\s.*charset=['\"]?([^'\"]*)?.*?>"
-
-        # requests依据RFC标准，对于不能确定编码会指定ISO-8859-1，对于中文，基本上都是有问题的，通常是utf-8
+        meta_reg = r"<meta.*?charset=['\"]?([^'\"><]*)?.*?>"
         if r.encoding == 'ISO-8859-1':
+            #print "[-]", target_url
+            #print " requests.utils.get_encodings_from_content(r.content)",  requests.utils.get_encodings_from_content(r.content)
+            #print "r.apparent_encoding", r.apparent_encoding
+
             # requests 默认探测失败，查看页面meta方法获取
             m = re.search(meta_reg, r.text, re.I)
             if m:
                 r.encoding = m.group(1)
+
             else:
-                # 页面js跳转，是无法跟踪的, 默认设置为utf-8
+                # 没有meta设置编码，直接页面js跳转等, 默认设置为utf-8
                 r.encoding = 'utf-8'
 
         try:

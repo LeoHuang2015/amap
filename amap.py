@@ -15,7 +15,7 @@ import requests
 
 lock = threading.Lock()
 threadpool = Pool(processes=200)
-TIMEOUT = 5
+TIMEOUT = 3
 scan_results = []
 
 def signal_handler(signal, frame):
@@ -37,15 +37,12 @@ def amap_scan(*kw):
     #if host!="sangfor.com.cn":return
 
     result = None
-    rcode, server, title = "", "", ""
+    rcode, server, title = 0, "", ""
 
     target_url = "http://%s:%s" %(host, port)
-
+    #print "[-]check:", target_url
     try:
         r = requests.get(target_url, timeout=TIMEOUT, allow_redirects=True)
-
-        title = ""
-
 
         # requests依据RFC标准，对于不能确定编码会指定ISO-8859-1，对于中文，基本上都是有问题的，通常是utf-8
         # apparent_encoding 会匹配多个，get_encodings_from_content 误差更大，所以自己使用正则匹配
@@ -58,7 +55,6 @@ def amap_scan(*kw):
         #<meta charset="UTF-8" />
         meta_reg = r"<meta.*?charset=['\"]?([^'\"><]*)?.*?>"
         if r.encoding == 'ISO-8859-1':
-            #print "[-]", target_url
             #print " requests.utils.get_encodings_from_content(r.content)",  requests.utils.get_encodings_from_content(r.content)
             #print "r.apparent_encoding", r.apparent_encoding
 
@@ -127,12 +123,12 @@ def amap_file_check(check_file, result_file=None):
     vul_results = []
     for x in scan_results:
         #print x
-        if x[2]:
+        if x[2][1]:
             vul_results.append(x)
 
     if result_file:
         with open(result_file, 'w') as f:
-            f.write("[AMAP Scan]Scan %d hosts\n\n" % (len(scan_results)))
+            f.write("[AMAP Scan]Scan %d hosts, %s hosts have info\n\n" % (len(scan_results), len(vul_results)))
             for x in vul_results:
                 h, p, r = x
                 rs = ""
